@@ -24,8 +24,8 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" timestamp="1527083926556">
-        <mark key="'" line="0" column="10" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" timestamp="1527087142968">
+        <mark key="'" line="2" column="17" />
         <mark key="[" line="0" column="70" />
         <mark key="]" line="0" column="69" />
         <mark key="." line="0" column="69" />
@@ -98,8 +98,6 @@
       <jump line="12" column="39" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/gbp.py" />
       <jump line="4" column="15" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/gbp.py" />
       <jump line="6" column="23" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/gbp.py" />
-      <jump line="8" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/ecb.py" />
-      <jump line="2" column="11" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" />
       <jump line="4" column="15" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" />
       <jump line="5" column="21" filename="$USER_HOME$/Git/zemanta-eins/server/automation/campaignstop/service/selection.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/__init__.py" />
@@ -108,6 +106,8 @@
       <jump line="0" column="28" filename="$USER_HOME$/Git/zemanta-eins/server/automation/campaignstop/service/selection.py" />
       <jump line="2" column="20" filename="$USER_HOME$/Git/zemanta-eins/server/automation/campaignstop/service/selection.py" />
       <jump line="18" column="74" filename="$USER_HOME$/Git/zemanta-eins/server/automation/campaignstop/service/selection.py" />
+      <jump line="2" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" />
+      <jump line="8" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/ecb.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
