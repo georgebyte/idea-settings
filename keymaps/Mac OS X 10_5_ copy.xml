@@ -1,4 +1,10 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -11,10 +17,15 @@
   <action id="ClassTemplateNavigation" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="EditorMatchBrace" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
@@ -23,9 +34,18 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="InsertLiveTemplate" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
   <action id="RecentChangedFiles" />
   <action id="Refresh" />
   <action id="Replace" />
@@ -33,6 +53,10 @@
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="SelectNextOccurrence" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="meta e" />

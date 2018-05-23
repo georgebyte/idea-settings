@@ -11,8 +11,8 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" timestamp="1527076973561">
-        <mark key="'" line="2" column="8" />
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" timestamp="1527077670395">
+        <mark key="'" line="56" column="42" />
         <mark key="[" line="8" column="51" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -71,6 +71,8 @@
       <jump line="13" column="40" filename="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" />
       <jump line="10" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/core/source/source_type/bcm_mixin.py" />
       <jump line="85" column="31" filename="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" />
+      <jump line="56" column="42" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" />
+      <jump line="196" column="12" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -135,6 +137,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
