@@ -1,0 +1,98 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1526990057761">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/entities/endpoints/zemEntityConverter.service.js" timestamp="1527060219000" />
+      <file name="$USER_HOME$/Git/zemanta-eins/.idea/dictionaries/jure.xml" timestamp="1527061105147">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.html" timestamp="1526994715018">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" timestamp="1527061175168">
+        <mark key="'" line="2" column="8" />
+        <mark key="[" line="183" column="38" />
+        <mark key="]" line="183" column="37" />
+        <mark key="." line="183" column="37" />
+        <mark key="^" line="183" column="37" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/test-results.xml" timestamp="1527061703846" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" timestamp="1527060698230">
+        <mark key="'" line="85" column="31" />
+        <mark key="[" line="97" column="41" />
+        <mark key="]" line="97" column="41" />
+        <mark key="^" line="97" column="41" />
+        <mark key="." line="97" column="41" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.ts" timestamp="1526993064963">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2" column="8" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" />
+      <jump line="3" column="13" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/shared/types/store.ts" />
+      <jump line="13" column="40" filename="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" />
+      <jump line="10" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/core/source/source_type/bcm_mixin.py" />
+      <jump line="85" column="31" filename="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDx3b3Jkcz4KICAgICAgPHc+bmVrYWo8L3c+CiAgICA8L3dvcmRzPgo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>j</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgbmVrYWo7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGdkZ2ZqaGNnaGNoZ2MK</text>
+      </register>
+      <register name="-" type="4">
+        <text>j</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

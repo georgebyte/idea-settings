@@ -1,0 +1,34 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="ClassTemplateNavigation" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="EditorMatchBrace" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="FindPrevious" />
+  <action id="GoToClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="InsertLiveTemplate" />
+  <action id="RecentChangedFiles" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+</keymap>
