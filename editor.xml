@@ -7,12 +7,4 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="todo \(jurebajt\).*" />
-    <pattern icon="important" pattern="fixme \(jurebajt\).*" />
-    <pattern icon="important" pattern="prtodo \(jurebajt\).*" />
-    <filter name="PR TODOs">
-      <pattern index="2" />
-    </filter>
-  </component>
 </application>
