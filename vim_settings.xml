@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1526990057761">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/entities/endpoints/zemEntityConverter.service.js" timestamp="1527060219000" />
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/dictionaries/jure.xml" timestamp="1527061105147">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.html" timestamp="1527065416499" />
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.html" timestamp="1526994715018">
         <mark key="[" line="29" column="17" />
         <mark key="]" line="30" column="11" />
@@ -25,7 +25,6 @@
         <mark key="." line="183" column="37" />
         <mark key="^" line="183" column="37" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/test-results.xml" timestamp="1527061703846" />
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" timestamp="1527060698230">
         <mark key="'" line="85" column="31" />
         <mark key="[" line="97" column="41" />
@@ -39,6 +38,7 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-settings/account/general/zemAccountGeneralSettings.component.html" timestamp="1527065218598" />
     </filemarks>
     <jumps>
       <jump line="2" column="8" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" />
