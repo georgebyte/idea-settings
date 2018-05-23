@@ -73,12 +73,12 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" timestamp="1527089986149">
-        <mark key="'" line="261" column="28" />
-        <mark key="[" line="226" column="52" />
-        <mark key="]" line="226" column="62" />
-        <mark key="^" line="226" column="62" />
-        <mark key="." line="226" column="62" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" timestamp="1527091627716">
+        <mark key="'" line="195" column="33" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="^" line="223" column="70" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/inspectionProfiles/Project_Default.xml" timestamp="1527066990264">
         <mark key="[" line="4" column="0" />
@@ -118,8 +118,6 @@
       <jump line="2" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" />
       <jump line="8" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/ecb.py" />
       <jump line="178" column="47" filename="$USER_HOME$/Git/zemanta-eins/server/dash/views/breakdown.py" />
-      <jump line="294" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/stats/helpers.py" />
-      <jump line="194" column="21" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
       <jump line="220" column="54" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
       <jump line="222" column="27" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
       <jump line="259" column="22" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
@@ -127,13 +125,23 @@
       <jump line="224" column="29" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
       <jump line="261" column="28" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
       <jump line="291" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="22" column="23" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Git/zemanta-eins/server/stats/api_reports/__init__.py" />
+      <jump line="194" column="21" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/access/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Git/zemanta-eins/server/dash/views/helpers.py" />
+      <jump line="382" column="33" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="223" column="26" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="294" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/stats/helpers.py" />
+      <jump line="195" column="33" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="282" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/stats/helpers.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdHMuYXBpX2JyZWFrZG93bnMuaGVscGVycy5fc3RyaXBfbG9jYWxfdmFsdWVzX2Zyb21fcm93cygpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>option</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdHMuYXBpX2JyZWFrZG93bnMuaGVscGVycy5fc3RyaXBfbG9jYWxfdmFsdWVzX2Zyb21fcm93cygpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -142,25 +150,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmRlZiBfZmV0Y2hfZWNiX2V4Y2hhbmdlX3JhdGVzKCk6CiAgICByID0gcmVxdWVzdHMuZ2V0KEVDQl9FWENIQU5HRV9SQVRFU19YTUwpCiAgICByb290ID0gZXRyZWUuRWxlbWVudFRyZWUuZnJvbXN0cmluZyhyLmNvbnRlbnQpCgogICAgbmFtZXNwYWNlcyA9IHsneG1sbnMnOiAnaHR0cDovL3d3dy5lY2IuaW50L3ZvY2FidWxhcnkvMjAwMi0wOC0wMS9ldXJvZnhyZWYnfQogICAgaXRlcmF0b3IgPSByb290Lml0ZXJmaW5kKCcuL3htbG5zOkN1YmUveG1sbnM6Q3ViZS94bWxuczpDdWJlJywgbmFtZXNwYWNlcz1uYW1lc3BhY2VzKQoKICAgIGN1cnJlbmN5X21hcCA9IHtlbGVtZW50LmF0dHJpYlsnY3VycmVuY3knXTogZGVjaW1hbC5EZWNpbWFsKGVsZW1lbnQuYXR0cmliWydyYXRlJ10pIGZvciBlbGVtZW50IGluIGl0ZXJhdG9yfQogICAgcmV0dXJuIGN1cnJlbmN5X21hcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRlY2ltYWwKZnJvbSB4bWwgaW1wb3J0IGV0cmVlCmltcG9ydCByZXF1ZXN0cwoK</text>
+        <text encoding="base64">CmRlZiBfZmV0Y2hfZWNiX2V4Y2hhbmdlX3JhdGVzKCk6CiAgICByID0gcmVxdWVzdHMuZ2V0KEVDQl9FWENIQU5HRV9SQVRFU19YTUwpCiAgICByb290ID0gZXRyZWUuRWxlbWVudFRyZWUuZnJvbXN0cmluZyhyLmNvbnRlbnQpCgogICAgbmFtZXNwYWNlcyA9IHsneG1sbnMnOiAnaHR0cDovL3d3dy5lY2IuaW50L3ZvY2FidWxhcnkvMjAwMi0wOC0wMS9ldXJvZnhyZWYnfQogICAgaXRlcmF0b3IgPSByb290Lml0ZXJmaW5kKCcuL3htbG5zOkN1YmUveG1sbnM6Q3ViZS94bWxuczpDdWJlJywgbmFtZXNwYWNlcz1uYW1lc3BhY2VzKQoKICAgIGN1cnJlbmN5X21hcCA9IHtlbGVtZW50LmF0dHJpYlsnY3VycmVuY3knXTogZGVjaW1hbC5EZWNpbWFsKGVsZW1lbnQuYXR0cmliWydyYXRlJ10pIGZvciBlbGVtZW50IGluIGl0ZXJhdG9yfQogICAgcmV0dXJuIGN1cnJlbmN5X21hcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlY2ltYWwKZnJvbSB4bWwgaW1wb3J0IGV0cmVlCmltcG9ydCByZXF1ZXN0cwoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RUNCX0VYQ0hBTkdFX1JBVEVTX1hNTCA9ICdodHRwOi8vd3d3LmVjYi5ldXJvcGEuZXUvc3RhdHMvZXVyb2Z4cmVmL2V1cm9meHJlZi1kYWlseS54bWwnCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">RUNCX0VYQ0hBTkdFX1JBVEVTX1hNTCA9ICdodHRwOi8vd3d3LmVjYi5ldXJvcGEuZXUvc3RhdHMvZXVyb2Z4cmVmL2V1cm9meHJlZi1kYWlseS54bWwnCg==</text>
+      </register>
       <register name="-" type="4">
-        <text>option</text>
+        <text>report_path</text>
       </register>
     </registers>
     <search>
