@@ -24,8 +24,8 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" timestamp="1527066840032">
-        <mark key="'" line="2" column="8" />
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" timestamp="1527070211515">
+        <mark key="'" line="102" column="57" />
         <mark key="[" line="71" column="23" />
         <mark key="]" line="71" column="23" />
         <mark key="." line="71" column="23" />
@@ -57,6 +57,8 @@
       <jump line="13" column="40" filename="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" />
       <jump line="10" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/core/source/source_type/bcm_mixin.py" />
       <jump line="85" column="31" filename="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" />
+      <jump line="102" column="57" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" />
+      <jump line="146" column="12" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
