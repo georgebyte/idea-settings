@@ -1,0 +1,51 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.6 interpreter library">
+      <CLASSES>
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/zem-0.2-py3.6.egg" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/oauth2client-4.1.2-py3.6.egg" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/appdirs-1.4.3-py3.6.egg" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/click-6.7-py3.6.egg" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pyasn1_modules-0.2.1-py3.6.egg" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/httplib2-0.11.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/2068767379" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/zem-0.2-py3.6.egg" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/oauth2client-4.1.2-py3.6.egg" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/appdirs-1.4.3-py3.6.egg" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/click-6.7-py3.6.egg" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pyasn1_modules-0.2.1-py3.6.egg" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/httplib2-0.11.0-py3.6.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/2068767379" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
