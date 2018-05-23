@@ -1,5 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="ActivateDebugToolWindow" />
+  <action id="ActivateDockerToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateProjectToolWindow" />
@@ -15,8 +18,10 @@
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="ClassTemplateNavigation" />
+  <action id="Console.TableResult.CompareCells" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorJoinLines">
@@ -58,6 +63,8 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="TagDocumentationNavigation" />
+  <action id="Uml.ShowDiff" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>

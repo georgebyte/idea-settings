@@ -6,7 +6,6 @@
       <file name="/Dummy.txt" timestamp="1526990057761">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/crontab.txt" timestamp="1527079587615" />
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.html" timestamp="1527068329191">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -25,7 +24,8 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" timestamp="1527081620331">
+      <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" timestamp="1527082460378">
+        <mark key="'" line="2" column="13" />
         <mark key="[" line="0" column="70" />
         <mark key="]" line="0" column="69" />
         <mark key="." line="0" column="69" />
@@ -49,7 +49,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.html" timestamp="1527065416499" />
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-settings/campaign/budgets/zemCampaignBudgetsModal.component.html" timestamp="1527074615540">
         <mark key="[" line="79" column="60" />
         <mark key="]" line="79" column="59" />
@@ -69,7 +68,6 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-settings/account/general/zemAccountGeneralSettings.component.html" timestamp="1527065218598" />
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/inspectionProfiles/Project_Default.xml" timestamp="1527066990264">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -98,6 +96,7 @@
       <jump line="4" column="15" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/gbp.py" />
       <jump line="6" column="23" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/gbp.py" />
       <jump line="8" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/ecb.py" />
+      <jump line="2" column="13" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
