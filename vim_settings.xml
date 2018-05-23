@@ -6,6 +6,9 @@
       <file name="/Dummy.txt" timestamp="1526990057761">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/views/breakdown.py" timestamp="1527087665785">
+        <mark key="'" line="178" column="47" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.html" timestamp="1527068329191">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -25,7 +28,6 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" timestamp="1527087142968">
-        <mark key="'" line="2" column="17" />
         <mark key="[" line="0" column="70" />
         <mark key="]" line="0" column="69" />
         <mark key="." line="0" column="69" />
@@ -71,6 +73,13 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" timestamp="1527087812251">
+        <mark key="'" line="259" column="27" />
+        <mark key="[" line="222" column="105" />
+        <mark key="]" line="222" column="20" />
+        <mark key="^" line="222" column="20" />
+        <mark key="." line="222" column="20" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/inspectionProfiles/Project_Default.xml" timestamp="1527066990264">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -108,6 +117,11 @@
       <jump line="18" column="74" filename="$USER_HOME$/Git/zemanta-eins/server/automation/campaignstop/service/selection.py" />
       <jump line="2" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" />
       <jump line="8" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/ecb.py" />
+      <jump line="178" column="47" filename="$USER_HOME$/Git/zemanta-eins/server/dash/views/breakdown.py" />
+      <jump line="294" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/stats/helpers.py" />
+      <jump line="222" column="21" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="259" column="27" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="289" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
