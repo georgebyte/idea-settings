@@ -1,0 +1,14 @@
+<templateSet group="TypeScript">
+  <template name="impf" value="import {$2$} from '$1$';" description="import {} from ''" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="tslintdisableline" value="// tslint:disable-line" description="tslint:disable-line" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

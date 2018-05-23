@@ -1,0 +1,17 @@
+<templateSet group="HTML">
+  <template name="myfix" value="&lt;!-- FIXME (jurebajt): $END$ --&gt;" description="FIXME (jurebajt)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="mytodo" value="&lt;!-- TODO (jurebajt): $END$ --&gt;" description="TODO (jurebajt)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="prtodo" value="&lt;!-- PRTODO (jurebajt): $END$ --&gt;" description="PRTODO (jurebajt)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

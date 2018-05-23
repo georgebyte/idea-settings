@@ -1,0 +1,3 @@
+<templateSet group="Markdown">
+  <template name="mdlintdisable" value="&lt;!-- markdownlint-disable --&gt;" description="markdownlint-disable" toReformat="false" toShortenFQNames="true" />
+</templateSet>
