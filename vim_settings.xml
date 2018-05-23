@@ -6,31 +6,37 @@
       <file name="/Dummy.txt" timestamp="1526990057761">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/entities/endpoints/zemEntityConverter.service.js" timestamp="1527066933951">
+        <mark key="[" line="57" column="49" />
+        <mark key="]" line="57" column="49" />
+        <mark key="." line="57" column="49" />
+        <mark key="^" line="57" column="49" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/dictionaries/jure.xml" timestamp="1527061105147">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.html" timestamp="1527065416499" />
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.html" timestamp="1526994715018">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="30" column="11" />
-        <mark key="^" line="30" column="11" />
-        <mark key="." line="30" column="11" />
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-settings/campaign/budgets/zemCampaignBudgetsModal.component.html" timestamp="1527067085783" />
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.html" timestamp="1527066826770">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" timestamp="1527061175168">
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" timestamp="1527066840032">
         <mark key="'" line="2" column="8" />
-        <mark key="[" line="183" column="38" />
-        <mark key="]" line="183" column="37" />
-        <mark key="." line="183" column="37" />
-        <mark key="^" line="183" column="37" />
+        <mark key="[" line="71" column="23" />
+        <mark key="]" line="71" column="23" />
+        <mark key="." line="71" column="23" />
+        <mark key="^" line="71" column="23" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" timestamp="1527060698230">
-        <mark key="'" line="85" column="31" />
-        <mark key="[" line="97" column="41" />
-        <mark key="]" line="97" column="41" />
-        <mark key="^" line="97" column="41" />
-        <mark key="." line="97" column="41" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" timestamp="1527066262636">
+        <mark key="'" line="84" column="31" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="96" column="41" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.ts" timestamp="1526993064963">
         <mark key="[" line="17" column="39" />
@@ -39,6 +45,11 @@
         <mark key="." line="17" column="38" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-settings/account/general/zemAccountGeneralSettings.component.html" timestamp="1527065218598" />
+      <file name="$USER_HOME$/Git/zemanta-eins/.idea/inspectionProfiles/Project_Default.xml" timestamp="1527066990264">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2" column="8" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" />
@@ -49,19 +60,28 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx3b3Jkcz4KICAgICAgPHc+bmVrYWo8L3c+CiAgICA8L3dvcmRzPgo=</text>
+        <text encoding="base64">ICAgIDxpbnNwZWN0aW9uX3Rvb2wgY2xhc3M9Ikh0bWxVbmtub3duQXR0cmlidXRlIiBlbmFibGVkPSJ0cnVlIiBsZXZlbD0iV0FSTklORyIgZW5hYmxlZF9ieV9kZWZhdWx0PSJ0cnVlIj4KICAgICAgPG9wdGlvbiBuYW1lPSJteVZhbHVlcyI+CiAgICAgICAgPHZhbHVlPgogICAgICAgICAgPGxpc3Qgc2l6ZT0iMSI+CiAgICAgICAgICAgIDxpdGVtIGluZGV4PSIwIiBjbGFzcz0iamF2YS5sYW5nLlN0cmluZyIgaXRlbXZhbHVlPSIqbmdmb3IiIC8+CiAgICAgICAgICA8L2xpc3Q+CiAgICAgICAgPC92YWx1ZT4KICAgICAgPC9vcHRpb24+CiAgICAgIDxvcHRpb24gbmFtZT0ibXlDdXN0b21WYWx1ZXNFbmFibGVkIiB2YWx1ZT0idHJ1ZSIgLz4KICAgIDwvaW5zcGVjdGlvbl90b29sPgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxpbnNwZWN0aW9uX3Rvb2wgY2xhc3M9Ikh0bWxVbmtub3duQXR0cmlidXRlIiBlbmFibGVkPSJ0cnVlIiBsZXZlbD0iV0FSTklORyIgZW5hYmxlZF9ieV9kZWZhdWx0PSJ0cnVlIj4KICAgICAgPG9wdGlvbiBuYW1lPSJteVZhbHVlcyI+CiAgICAgICAgPHZhbHVlPgogICAgICAgICAgPGxpc3Qgc2l6ZT0iMSI+CiAgICAgICAgICAgIDxpdGVtIGluZGV4PSIwIiBjbGFzcz0iamF2YS5sYW5nLlN0cmluZyIgaXRlbXZhbHVlPSIqbmdmb3IiIC8+CiAgICAgICAgICA8L2xpc3Q+CiAgICAgICAgPC92YWx1ZT4KICAgICAgPC9vcHRpb24+CiAgICAgIDxvcHRpb24gbmFtZT0ibXlDdXN0b21WYWx1ZXNFbmFibGVkIiB2YWx1ZT0idHJ1ZSIgLz4KICAgIDwvaW5zcGVjdGlvbl90b29sPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbmVrYWo7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDx3b3Jkcz4KICAgICAgPHc+bmVrYWo8L3c+CiAgICA8L3dvcmRzPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgbmVrYWo7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGdkZ2ZqaGNnaGNoZ2MK</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

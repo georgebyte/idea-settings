@@ -3,4 +3,8 @@
     <option name="FONT_SIZE" value="13" />
     <option name="FONT_FAMILY" value="Monaco for Powerline" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
 </application>
