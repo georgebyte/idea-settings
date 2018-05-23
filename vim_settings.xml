@@ -73,12 +73,12 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" timestamp="1527087812251">
-        <mark key="'" line="259" column="27" />
-        <mark key="[" line="222" column="105" />
-        <mark key="]" line="222" column="20" />
-        <mark key="^" line="222" column="20" />
-        <mark key="." line="222" column="20" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" timestamp="1527089986149">
+        <mark key="'" line="261" column="28" />
+        <mark key="[" line="226" column="52" />
+        <mark key="]" line="226" column="62" />
+        <mark key="^" line="226" column="62" />
+        <mark key="." line="226" column="62" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/inspectionProfiles/Project_Default.xml" timestamp="1527066990264">
         <mark key="[" line="4" column="0" />
@@ -119,16 +119,21 @@
       <jump line="8" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/ecb.py" />
       <jump line="178" column="47" filename="$USER_HOME$/Git/zemanta-eins/server/dash/views/breakdown.py" />
       <jump line="294" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/stats/helpers.py" />
-      <jump line="222" column="21" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
-      <jump line="259" column="27" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="194" column="21" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="220" column="54" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="222" column="27" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="259" column="22" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
       <jump line="289" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="224" column="29" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="261" column="28" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
+      <jump line="291" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>option</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -155,7 +160,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>option</text>
       </register>
     </registers>
     <search>
