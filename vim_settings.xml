@@ -34,6 +34,9 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/update.py" timestamp="1527151241151">
+        <mark key="'" line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/entities/endpoints/zemEntityConverter.service.js" timestamp="1527076096989">
         <mark key="[" line="37" column="86" />
         <mark key="]" line="37" column="85" />
@@ -200,6 +203,8 @@
       <jump line="89" column="32" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-report/shared/zem-report-query-config/zemReportQueryConfig.component.html" />
       <jump line="76" column="52" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-report/shared/zem-report-query-config/zemReportQueryConfig.component.html" />
       <jump line="18" column="27" filename="$USER_HOME$/Git/zemanta-eins/server/dash/management/commands/multicurrency_update.py" />
+      <jump line="6" column="16" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/update.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Git/zemanta-eins/server/dash/constants.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
