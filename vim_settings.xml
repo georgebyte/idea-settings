@@ -9,6 +9,11 @@
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/views/breakdown.py" timestamp="1527087665785">
         <mark key="'" line="178" column="47" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/data-filter/zemDataFilter.service.js" timestamp="1527093154522">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.html" timestamp="1527068329191">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -53,6 +58,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-filter-selector/zemFilterSelector.component.html" timestamp="1527093445009">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="28" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-settings/campaign/budgets/zemCampaignBudgetsModal.component.html" timestamp="1527074615540">
         <mark key="[" line="79" column="60" />
@@ -138,13 +149,13 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdHMuYXBpX2JyZWFrZG93bnMuaGVscGVycy5fc3RyaXBfbG9jYWxfdmFsdWVzX2Zyb21fcm93cygpCg==</text>
+        <text encoding="base64">ICAgIHZhciB0ZXN0ID0gJ3plbS1kYXRhLWZpbHRlci1zZXJ2aWNlLW9uLWRhdGUtcmFuZ2UtdXBkYXRlJwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdHMuYXBpX2JyZWFrZG93bnMuaGVscGVycy5fc3RyaXBfbG9jYWxfdmFsdWVzX2Zyb21fcm93cygpCg==</text>
+        <text encoding="base64">ICAgIHZhciB0ZXN0ID0gJ3plbS1kYXRhLWZpbHRlci1zZXJ2aWNlLW9uLWRhdGUtcmFuZ2UtdXBkYXRlJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdHMuYXBpX2JyZWFrZG93bnMuaGVscGVycy5fc3RyaXBfbG9jYWxfdmFsdWVzX2Zyb21fcm93cygpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -153,19 +164,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmRlZiBfZmV0Y2hfZWNiX2V4Y2hhbmdlX3JhdGVzKCk6CiAgICByID0gcmVxdWVzdHMuZ2V0KEVDQl9FWENIQU5HRV9SQVRFU19YTUwpCiAgICByb290ID0gZXRyZWUuRWxlbWVudFRyZWUuZnJvbXN0cmluZyhyLmNvbnRlbnQpCgogICAgbmFtZXNwYWNlcyA9IHsneG1sbnMnOiAnaHR0cDovL3d3dy5lY2IuaW50L3ZvY2FidWxhcnkvMjAwMi0wOC0wMS9ldXJvZnhyZWYnfQogICAgaXRlcmF0b3IgPSByb290Lml0ZXJmaW5kKCcuL3htbG5zOkN1YmUveG1sbnM6Q3ViZS94bWxuczpDdWJlJywgbmFtZXNwYWNlcz1uYW1lc3BhY2VzKQoKICAgIGN1cnJlbmN5X21hcCA9IHtlbGVtZW50LmF0dHJpYlsnY3VycmVuY3knXTogZGVjaW1hbC5EZWNpbWFsKGVsZW1lbnQuYXR0cmliWydyYXRlJ10pIGZvciBlbGVtZW50IGluIGl0ZXJhdG9yfQogICAgcmV0dXJuIGN1cnJlbmN5X21hcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRlY2ltYWwKZnJvbSB4bWwgaW1wb3J0IGV0cmVlCmltcG9ydCByZXF1ZXN0cwoK</text>
+        <text encoding="base64">CmRlZiBfZmV0Y2hfZWNiX2V4Y2hhbmdlX3JhdGVzKCk6CiAgICByID0gcmVxdWVzdHMuZ2V0KEVDQl9FWENIQU5HRV9SQVRFU19YTUwpCiAgICByb290ID0gZXRyZWUuRWxlbWVudFRyZWUuZnJvbXN0cmluZyhyLmNvbnRlbnQpCgogICAgbmFtZXNwYWNlcyA9IHsneG1sbnMnOiAnaHR0cDovL3d3dy5lY2IuaW50L3ZvY2FidWxhcnkvMjAwMi0wOC0wMS9ldXJvZnhyZWYnfQogICAgaXRlcmF0b3IgPSByb290Lml0ZXJmaW5kKCcuL3htbG5zOkN1YmUveG1sbnM6Q3ViZS94bWxuczpDdWJlJywgbmFtZXNwYWNlcz1uYW1lc3BhY2VzKQoKICAgIGN1cnJlbmN5X21hcCA9IHtlbGVtZW50LmF0dHJpYlsnY3VycmVuY3knXTogZGVjaW1hbC5EZWNpbWFsKGVsZW1lbnQuYXR0cmliWydyYXRlJ10pIGZvciBlbGVtZW50IGluIGl0ZXJhdG9yfQogICAgcmV0dXJuIGN1cnJlbmN5X21hcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlY2ltYWwKZnJvbSB4bWwgaW1wb3J0IGV0cmVlCmltcG9ydCByZXF1ZXN0cwoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RUNCX0VYQ0hBTkdFX1JBVEVTX1hNTCA9ICdodHRwOi8vd3d3LmVjYi5ldXJvcGEuZXUvc3RhdHMvZXVyb2Z4cmVmL2V1cm9meHJlZi1kYWlseS54bWwnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>report_path</text>
@@ -205,6 +216,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
