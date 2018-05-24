@@ -20,8 +20,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/update.py" timestamp="1527155862435">
-        <mark key="'" line="7" column="29" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/update.py" timestamp="1527156038727">
+        <mark key="'" line="7" column="24" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/entities/endpoints/zemEntityConverter.service.js" timestamp="1527076096989">
         <mark key="[" line="37" column="86" />
@@ -117,8 +117,8 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" timestamp="1527155457240">
-        <mark key="'" line="22" column="17" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" timestamp="1527156057435">
+        <mark key="'" line="243" column="31" />
         <mark key="[" line="175" column="68" />
         <mark key="]" line="175" column="68" />
         <mark key="." line="175" column="68" />
@@ -193,7 +193,9 @@
       <jump line="13" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
       <jump line="9" column="9" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
       <jump line="22" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
-      <jump line="7" column="29" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/update.py" />
+      <jump line="7" column="24" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/update.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Git/zemanta-eins/server/utils/dates_helper.py" />
+      <jump line="243" column="31" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
