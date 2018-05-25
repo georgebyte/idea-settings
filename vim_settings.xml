@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/multicurrency_mixin_test.py" timestamp="1527234648035">
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="35" column="49" />
-        <mark key="^" line="35" column="49" />
-        <mark key="." line="35" column="49" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/multicurrency_mixin_test.py" timestamp="1527236009936">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="34" column="49" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/manager_test.py" timestamp="1527234589055">
         <mark key="'" line="28" column="29" />
@@ -356,37 +356,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXRpbHMubGNfaGVscGVyLmZvcm1hdF9jdXJyZW5jeShtaW5fZGFpbHlfYnVkZ2V0LCBwbGFjZXM9MiwgY3Vycj1jdXJyZW5jeV9zeW1ib2wpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvZGF5ID0gdXRpbHMuZGF0ZXNfaGVscGVyLmxvY2FsX3RvZGF5KCkK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>cu</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzLm51bWJlcnMK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHV0aWxzLmRhdGVzX2hlbHBlcgo=</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHV0aWxzLmRhdGVzX2hlbHBlcgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0b2RheSA9IHV0aWxzLmRhdGVzX2hlbHBlci5sb2NhbF90b2RheSgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0b2RheSA9IHV0aWxzLmRhdGVzX2hlbHBlci5sb2NhbF90b2RheSgpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzCg==</text>
+        <text encoding="base64">ICAgIHRvZGF5ID0gdXRpbHMuZGF0ZXNfaGVscGVyLmxvY2FsX3RvZGF5KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscyBpbXBvcnQgZGF0ZXNfaGVscGVyCg==</text>
+        <text encoding="base64">aW1wb3J0IHV0aWxzLm51bWJlcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvZGF5ID0gZGF0ZXNfaGVscGVyLmxvY2FsX3RvZGF5KCkK</text>
+        <text encoding="base64">aW1wb3J0IHV0aWxzLmRhdGVzX2hlbHBlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RheSA9IGRhdGVzX2hlbHBlci5sb2NhbF90b2RheSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHV0aWxzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RheSA9IHV0aWxzLmRhdGVzX2hlbHBlci5sb2NhbF90b2RheSgpCg==</text>
+        <text encoding="base64">ZnJvbSB1dGlscyBpbXBvcnQgZGF0ZXNfaGVscGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RheSA9IHV0aWxzLmRhdGVzX2hlbHBlci5sb2NhbF90b2RheSgpCg==</text>
+        <text encoding="base64">ICAgIHRvZGF5ID0gZGF0ZXNfaGVscGVyLmxvY2FsX3RvZGF5KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>cu</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
