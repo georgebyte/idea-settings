@@ -28,11 +28,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" timestamp="1527230380350">
-        <mark key="[" line="40" column="52" />
-        <mark key="]" line="41" column="43" />
-        <mark key="." line="41" column="43" />
-        <mark key="^" line="41" column="43" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" timestamp="1527244645615">
+        <mark key="'" line="79" column="51" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="63" column="64" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/update.py" timestamp="1527156038727">
         <mark key="'" line="7" column="24" />
@@ -190,16 +191,12 @@
         <mark key="^" line="21" column="81" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" timestamp="1527230458321">
-        <mark key="'" line="74" column="50" />
-        <mark key="[" line="44" column="42" />
-        <mark key="]" line="45" column="48" />
-        <mark key="." line="45" column="48" />
-        <mark key="^" line="45" column="48" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" timestamp="1527230615012">
-        <mark key="'" line="72" column="17" />
-        <mark key="[" line="76" column="33" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" timestamp="1527244531997">
+        <mark key="'" line="53" column="48" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="69" column="105" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.ts" timestamp="1526993064963">
         <mark key="[" line="17" column="39" />
@@ -207,6 +204,7 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaign/serializers.py" timestamp="1527243559544" />
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/management/commands/multicurrency_update.py" timestamp="1527149327482">
         <mark key="'" line="18" column="27" />
       </file>
@@ -225,6 +223,9 @@
         <mark key="]" line="228" column="0" />
         <mark key="^" line="229" column="59" />
         <mark key="." line="228" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/report/views.py" timestamp="1527243411832">
+        <mark key="'" line="24" column="36" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/serializers.py" timestamp="1527144818827">
         <mark key="[" line="49" column="34" />
@@ -349,7 +350,6 @@
       <jump line="53" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/core/goals/campaign_goal/model.py" />
       <jump line="67" column="32" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" />
       <jump line="37" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/core/goals/campaign_goal/model.py" />
-      <jump line="74" column="50" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
       <jump line="72" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" />
       <jump line="123" column="37" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/adgroup/ad_group/model.py" />
       <jump line="9" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/service.py" />
@@ -358,43 +358,51 @@
       <jump line="27" column="29" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/manager_test.py" />
       <jump line="46" column="45" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/adgroupsource/views.py" />
       <jump line="28" column="37" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/instance.py" />
+      <jump line="74" column="53" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
+      <jump line="24" column="36" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/report/views.py" />
+      <jump line="54" column="6" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/serializers.py" />
+      <jump line="64" column="23" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" />
+      <jump line="74" column="62" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" />
+      <jump line="5" column="21" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" />
+      <jump line="79" column="51" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" />
+      <jump line="53" column="48" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXRpbHMubGNfaGVscGVyLmZvcm1hdF9jdXJyZW5jeShtaW5fZGFpbHlfYnVkZ2V0LCBwbGFjZXM9MiwgY3Vycj1jdXJyZW5jeV9zeW1ib2wpKQo=</text>
+        <text encoding="base64">ICAgICAgICBtaW5fY3BjID0gZGVjaW1hbC5EZWNpbWFsKCcwLjA1JykgKiBleGNoYW5nZV9yYXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzLmRhdGVzX2hlbHBlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodmFsdWUsIG1pbl9jcGMpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzLmRhdGVzX2hlbHBlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodmFsdWUsIG1pbl9jcGMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RheSA9IHV0aWxzLmRhdGVzX2hlbHBlci5sb2NhbF90b2RheSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFBSVE9ETyAoanVyZWJhanQpOiBXaHkgaXMgdGhpcyBhbiAnYW5kJyBjb25kaXRpb24/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RheSA9IHV0aWxzLmRhdGVzX2hlbHBlci5sb2NhbF90b2RheSgpCg==</text>
+        <text encoding="base64">ICAgICMgUFJUT0RPIChqdXJlYmFqdCk6IFVzZSBsb2NhbCB2YWx1ZSBmb3IgbWluL21heCB2YWx1ZSBhbmQgZXJyb3IgbWVzc2FnZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRvZGF5ID0gdXRpbHMuZGF0ZXNfaGVscGVyLmxvY2FsX3RvZGF5KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzLm51bWJlcnMK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBtaW5fdmFsdWU9ZGVjaW1hbC5EZWNpbWFsKCcwLjA1JyksCiAgICAgICAgbWF4X3ZhbHVlPWRlY2ltYWwuRGVjaW1hbCgnMTAnKSwKICAgICAgICBlcnJvcl9tZXNzYWdlcz17CiAgICAgICAgICAgICdtaW5fdmFsdWUnOiAnTWF4aW11bSBDUEMgY2FuXCd0IGJlIGxvd2VyIHRoYW4gJDAuMDUuJywKICAgICAgICAgICAgJ21heF92YWx1ZSc6ICdNYXhpbXVtIENQQyBjYW5cJ3QgYmUgaGlnaGVyIHRoYW4gJDEwLjAwLicKICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHV0aWxzLmRhdGVzX2hlbHBlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzCg==</text>
+        <text encoding="base64">ICAgICAgICB0b2RheSA9IHV0aWxzLmRhdGVzX2hlbHBlci5sb2NhbF90b2RheSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscyBpbXBvcnQgZGF0ZXNfaGVscGVyCg==</text>
+        <text encoding="base64">ICAgICAgICB0b2RheSA9IHV0aWxzLmRhdGVzX2hlbHBlci5sb2NhbF90b2RheSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvZGF5ID0gZGF0ZXNfaGVscGVyLmxvY2FsX3RvZGF5KCkK</text>
+        <text encoding="base64">ICAgIHRvZGF5ID0gdXRpbHMuZGF0ZXNfaGVscGVyLmxvY2FsX3RvZGF5KCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>min_daily_budget</text>
       </register>
     </registers>
     <search>
