@@ -160,11 +160,17 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/instance.py" timestamp="1527242166904">
+        <mark key="'" line="28" column="37" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/report/views_test.py" timestamp="1527147766453">
         <mark key="[" line="172" column="48" />
         <mark key="]" line="173" column="51" />
         <mark key="^" line="173" column="51" />
         <mark key="." line="173" column="51" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/adgroupsource/views.py" timestamp="1527242119766">
+        <mark key="'" line="46" column="45" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/service.py" timestamp="1527233183208">
         <mark key="[" line="10" column="0" />
@@ -350,6 +356,8 @@
       <jump line="24" column="61" filename="$USER_HOME$/Git/zemanta-eins/server/core/goals/service.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/multicurrency_mixin.py" />
       <jump line="27" column="29" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/manager_test.py" />
+      <jump line="46" column="45" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/adgroupsource/views.py" />
+      <jump line="28" column="37" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/instance.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
