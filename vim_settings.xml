@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/core/bcm/credit_line_item.py" timestamp="1527229348713">
+        <mark key="[" line="172" column="20" />
+        <mark key="]" line="172" column="83" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/multicurrency_mixin_test.py" timestamp="1527236009936">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -191,12 +195,12 @@
         <mark key="^" line="21" column="81" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" timestamp="1527244531997">
-        <mark key="'" line="53" column="48" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="69" column="105" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" timestamp="1527253000105">
+        <mark key="'" line="63" column="45" />
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.ts" timestamp="1526993064963">
         <mark key="[" line="17" column="39" />
@@ -259,6 +263,10 @@
         <mark key="^" line="25" column="115" />
         <mark key="." line="34" column="95" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/publishergroup/views.py" timestamp="1527252949546">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="86" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zem-campaign-launcher-goal/zemCampaignLauncherGoal.component.js" timestamp="1527227058171">
         <mark key="[" line="8" column="62" />
         <mark key="]" line="8" column="86" />
@@ -267,8 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="8" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" />
-      <jump line="3" column="13" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/shared/types/store.ts" />
       <jump line="13" column="40" filename="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" />
       <jump line="10" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/core/source/source_type/bcm_mixin.py" />
       <jump line="85" column="31" filename="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" />
@@ -337,7 +343,6 @@
       <jump line="34" column="52" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
       <jump line="27" column="6" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" />
       <jump line="42" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" />
-      <jump line="62" column="52" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
       <jump line="75" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" />
       <jump line="47" column="79" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
       <jump line="134" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/dash/forms.py" />
@@ -366,16 +371,20 @@
       <jump line="5" column="21" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" />
       <jump line="79" column="51" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" />
       <jump line="53" column="48" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
+      <jump line="61" column="34" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
+      <jump line="62" column="33" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
+      <jump line="37" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/utils/exc.py" />
+      <jump line="63" column="45" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5fY3BjID0gZGVjaW1hbC5EZWNpbWFsKCcwLjA1JykgKiBleGNoYW5nZV9yYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgdXRpbHMuZXhjLlZhbGlkYXRpb25FcnJvcignVGhpcyBwdWJsaXNoZXIgZ3JvdXAgY2FuIG5vdCBiZSBkZWxldGVkJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodmFsdWUsIG1pbl9jcGMpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodmFsdWUsIG1pbl9jcGMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>'This publisher group can not be deleted'</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAjIFBSVE9ETyAoanVyZWJhanQpOiBXaHkgaXMgdGhpcyBhbiAnYW5kJyBjb25kaXRpb24/Cg==</text>
@@ -402,7 +411,7 @@
         <text encoding="base64">ICAgIHRvZGF5ID0gdXRpbHMuZGF0ZXNfaGVscGVyLmxvY2FsX3RvZGF5KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>min_daily_budget</text>
+        <text>'This publisher group can not be deleted'</text>
       </register>
     </registers>
     <search>
