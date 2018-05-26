@@ -5,5 +5,10 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Remote Python 3.6.5 Docker Compose (server at [/Users/jure/Git/verdi/docker-compose.yml]) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>

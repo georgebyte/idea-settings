@@ -20,18 +20,6 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/ecb.py" timestamp="1527079074827">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" timestamp="1527139264459">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" timestamp="1527244645615">
         <mark key="'" line="79" column="51" />
         <mark key="[" line="66" column="0" />
@@ -60,38 +48,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="39" column="59" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/model.py" timestamp="1527232242512">
-        <mark key="[" line="293" column="51" />
-        <mark key="]" line="293" column="72" />
-        <mark key="^" line="293" column="72" />
-        <mark key="." line="293" column="72" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/entities/endpoints/zemEntityConverter.service.js" timestamp="1527225426023">
         <mark key="[" line="37" column="86" />
         <mark key="]" line="37" column="85" />
         <mark key="." line="37" column="85" />
         <mark key="^" line="37" column="85" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-filter-selector/zemFilterSelector.component.html" timestamp="1527093445009">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="28" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-review/zemCampaignLauncherReview.component.js" timestamp="1527227670957">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/adgroup/ad_group/model.py" timestamp="1527230538206">
         <mark key="'" line="123" column="37" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-settings/campaign/budgets/zemCampaignBudgetsModal.component.html" timestamp="1527074615540">
-        <mark key="[" line="79" column="60" />
-        <mark key="]" line="79" column="59" />
-        <mark key="^" line="79" column="59" />
-        <mark key="." line="79" column="59" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/goals/service_test.py" timestamp="1527234813866">
         <mark key="[" line="13" column="43" />
@@ -114,28 +78,10 @@
         <mark key="]" line="81" column="47" />
         <mark key="." line="81" column="17" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-create-actions/entity/zemCreateEntityAction.component.js" timestamp="1527226487829">
-        <mark key="[" line="20" column="95" />
-        <mark key="]" line="20" column="93" />
-        <mark key="." line="20" column="93" />
-        <mark key="^" line="20" column="93" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/inspectionProfiles/Project_Default.xml" timestamp="1527066990264">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/validation.py" timestamp="1527232301654">
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="39" column="59" />
-        <mark key="." line="39" column="59" />
-        <mark key="^" line="39" column="59" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/automation/campaignstop/service/spends_helper.py" timestamp="1527232044219">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="63" column="64" />
-        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/data-filter/zemDataFilter.service.js" timestamp="1527093154522">
         <mark key="[" line="54" column="0" />
@@ -154,47 +100,23 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-report/shared/zem-report-query-config/zemReportQueryConfig.component.js" timestamp="1527146510561">
-        <mark key="[" line="38" column="55" />
-        <mark key="]" line="38" column="58" />
-        <mark key="." line="38" column="58" />
-        <mark key="^" line="38" column="58" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_source_settings/instance_test.py" timestamp="1527234864130" />
       <file name="$USER_HOME$/Git/zemanta-eins/server/automation/campaignstop/service/selection.py" timestamp="1527084068285">
         <mark key="'" line="18" column="74" />
+      </file>
+      <file name="$USER_HOME$/Git/verdi/server/viauth/apps.py" timestamp="1527323739284">
+        <mark key="'" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/stats/helpers.py" timestamp="1527140738846">
         <mark key="[" line="301" column="0" />
         <mark key="]" line="308" column="0" />
         <mark key="." line="301" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/realtimestats/service.py" timestamp="1527232503651">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="91" column="64" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Git/verdi/server/viauth/tests.py" timestamp="1527323767792">
+        <mark key="'" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-settings/adgroup/autopilot/zemAdGroupAutopilotSettings.component.js" timestamp="1527226779881" />
-      <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/__init__.py" timestamp="1527229267980">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="2" column="28" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/instance_test.py" timestamp="1527234849139" />
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-report/services/zemReport.service.js" timestamp="1527145880037">
-        <mark key="[" line="81" column="82" />
-        <mark key="]" line="81" column="82" />
-        <mark key="." line="81" column="82" />
-        <mark key="^" line="81" column="82" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-grid/services/zemGridData.service.js" timestamp="1527154201788">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="28" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/instance.py" timestamp="1527242166904">
         <mark key="'" line="28" column="37" />
       </file>
@@ -202,12 +124,6 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/report/views_test.py" timestamp="1527147766453">
-        <mark key="[" line="172" column="48" />
-        <mark key="]" line="173" column="51" />
-        <mark key="^" line="173" column="51" />
-        <mark key="." line="173" column="51" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/adgroupsource/views.py" timestamp="1527242119766">
         <mark key="'" line="46" column="45" />
@@ -217,28 +133,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/service.py" timestamp="1527233183208">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="60" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/dictionaries/jure.xml" timestamp="1527061105147">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/__init__.py" timestamp="1527228684889">
-        <mark key="[" line="0" column="59" />
-        <mark key="]" line="0" column="85" />
-        <mark key="^" line="0" column="85" />
-        <mark key="." line="0" column="85" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/k1api/views/currency_exchange_rates.py" timestamp="1527233105660">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="21" column="81" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" timestamp="1527253000105">
         <mark key="'" line="63" column="45" />
@@ -246,12 +144,6 @@
         <mark key="]" line="14" column="15" />
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.ts" timestamp="1526993064963">
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="38" />
-        <mark key="^" line="17" column="38" />
-        <mark key="." line="17" column="38" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaign/serializers.py" timestamp="1527243559544" />
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/management/commands/multicurrency_update.py" timestamp="1527149327482">
@@ -267,20 +159,8 @@
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/views/breakdown.py" timestamp="1527087665785">
         <mark key="'" line="178" column="47" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/core/goals/campaign_goal/model.py" timestamp="1527232411378">
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="^" line="229" column="59" />
-        <mark key="." line="228" column="0" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/report/views.py" timestamp="1527243411832">
         <mark key="'" line="24" column="36" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/serializers.py" timestamp="1527144818827">
-        <mark key="[" line="49" column="34" />
-        <mark key="]" line="49" column="74" />
-        <mark key="^" line="49" column="74" />
-        <mark key="." line="49" column="74" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/forms.py" timestamp="1527232476437">
         <mark key="'" line="133" column="8" />
@@ -289,11 +169,17 @@
         <mark key="." line="133" column="59" />
         <mark key="^" line="133" column="59" />
       </file>
+      <file name="$USER_HOME$/Git/verdi/server/server/settings.py" timestamp="1527323786562">
+        <mark key="'" line="110" column="17" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.html" timestamp="1527226978285">
         <mark key="[" line="113" column="55" />
         <mark key="]" line="113" column="76" />
         <mark key="." line="113" column="76" />
         <mark key="^" line="113" column="76" />
+      </file>
+      <file name="$USER_HOME$/Git/verdi/server/server/local_settings.py" timestamp="1527323790344">
+        <mark key="'" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" timestamp="1527156149212">
         <mark key="'" line="11" column="13" />
@@ -320,10 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="40" filename="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" />
-      <jump line="10" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/core/source/source_type/bcm_mixin.py" />
-      <jump line="85" column="31" filename="$USER_HOME$/Git/zemanta-eins/server/dash/validation_helpers.py" />
-      <jump line="56" column="42" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" />
       <jump line="196" column="12" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.store.ts" />
       <jump line="0" column="9" filename="$USER_HOME$/Git/zemanta-eins/server/core/source/source_type/bcm_mixin.py" />
       <jump line="12" column="39" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/gbp.py" />
@@ -420,6 +302,10 @@
       <jump line="62" column="33" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
       <jump line="37" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/utils/exc.py" />
       <jump line="63" column="45" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
+      <jump line="0" column="28" filename="$USER_HOME$/Git/verdi/server/viauth/apps.py" />
+      <jump line="0" column="7" filename="$USER_HOME$/Git/verdi/server/viauth/tests.py" />
+      <jump line="110" column="17" filename="$USER_HOME$/Git/verdi/server/server/settings.py" />
+      <jump line="0" column="7" filename="$USER_HOME$/Git/verdi/server/server/local_settings.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
