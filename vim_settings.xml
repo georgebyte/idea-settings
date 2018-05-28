@@ -7,6 +7,11 @@
         <mark key="[" line="172" column="20" />
         <mark key="]" line="172" column="83" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.component.ts" timestamp="1527488238555">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/multicurrency_mixin_test.py" timestamp="1527236009936">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -68,6 +73,12 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="63" column="52" />
       </file>
+      <file name="$USER_HOME$/Git/verdi/client/tslint.json" timestamp="1527489266276">
+        <mark key="[" line="205" column="24" />
+        <mark key="]" line="205" column="22" />
+        <mark key="^" line="205" column="22" />
+        <mark key="." line="205" column="22" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.js" timestamp="1527227638161">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="103" />
@@ -92,6 +103,12 @@
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/management/commands/multicurrency_update.py" timestamp="1527149327482">
         <mark key="'" line="18" column="27" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/tslint.json" timestamp="1527488118572">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/views/breakdown.py" timestamp="1527087665785">
         <mark key="'" line="178" column="47" />
@@ -168,6 +185,11 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/package.json" timestamp="1527488814673">
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="54" column="26" />
+        <mark key="." line="54" column="26" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zem-campaign-launcher-goal/zemCampaignLauncherGoal.component.js" timestamp="1527227058171">
         <mark key="[" line="8" column="62" />
@@ -288,38 +310,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgdXRpbHMuZXhjLlZhbGlkYXRpb25FcnJvcihlcnJvcnM9ZXJyb3JzKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByYWlzZSByZXN0X2ZyYW1ld29yay5zZXJpYWxpemVycy5WYWxpZGF0aW9uRXJyb3IoZXJyb3JzKQo=</text>
+      <register name="1" type="4">
+        <text>[
+      true,
+      &quot;never&quot;
+    ],</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByYWlzZSByZXN0X2ZyYW1ld29yay5zZXJpYWxpemVycy5WYWxpZGF0aW9uRXJyb3IoZXJyb3JzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>[
+      true,
+      &quot;never&quot;
+    ],</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgdXRpbHMuZXhjLlZhbGlkYXRpb25FcnJvcih7J2RhaWx5X2J1ZGdldCc6IFsnU2hvdWxkIGJlIGF0IGxlYXN0ICQzNCddfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaE1hcChfID0+IGIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgcmVzdF9mcmFtZXdvcmsuc2VyaWFsaXplcnMuVmFsaWRhdGlvbkVycm9yKGVycm9ycykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByYWlzZSByZXN0X2ZyYW1ld29yay5zZXJpYWxpemVycy5WYWxpZGF0aW9uRXJyb3IoZXJyb3JzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGN0cmxbJ2dldEFjdGl2ZUVudGl0eSddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgdXRpbHMuZXhjLlZhbGlkYXRpb25FcnJvcih7J2RhaWx5X2J1ZGdldCc6IFsnU2hvdWxkIGJlIGF0IGxlYXN0ICQzNCddfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iemVtLXRlc3QtY2xhc3MiPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgcmVzdF9mcmFtZXdvcmsuc2VyaWFsaXplcnMuVmFsaWRhdGlvbkVycm9yKGVycm9ycykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iJCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGN0cmxbJ2dldEFjdGl2ZUVudGl0eSddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGN0cmwuYWNjb3VudFsnaGFuJ10K</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iemVtLXRlc3QtY2xhc3MiPjwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodmFsdWUsIG1pbl9jcGMpCg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iJCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFBSVE9ETyAoanVyZWJhanQpOiBXaHkgaXMgdGhpcyBhbiAnYW5kJyBjb25kaXRpb24/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGN0cmwuYWNjb3VudFsnaGFuJ10K</text>
       </register>
       <register name="-" type="4">
-        <text>errors=errors</text>
+        <text>^</text>
       </register>
     </registers>
     <search>
