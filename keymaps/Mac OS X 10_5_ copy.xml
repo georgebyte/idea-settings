@@ -21,12 +21,18 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.FindInGrid" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="DatabaseView.SqlGenerator" />
+  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorDuplicate" />
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
@@ -37,7 +43,14 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="Find" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta alt g" />
+  </action>
   <action id="FindPrevious" />
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="GoToClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl m" />
@@ -48,6 +61,9 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
+  <action id="Mvc.RunTarget" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -60,10 +76,15 @@
   <action id="Replace" />
   <action id="Rerun" />
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
-  <action id="SelectNextOccurrence" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift alt space" />
   </action>
@@ -72,6 +93,10 @@
   </action>
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="meta alt d" />
+  </action>
+  <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>

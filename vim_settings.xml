@@ -149,12 +149,12 @@
         <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.ts" timestamp="1527489496250" />
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" timestamp="1527500996445">
-        <mark key="'" line="95" column="48" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-        <mark key="^" line="153" column="47" />
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" timestamp="1527508243537">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="262" column="24" />
+        <mark key="]" line="262" column="23" />
+        <mark key="." line="262" column="23" />
+        <mark key="^" line="262" column="23" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/management/commands/multicurrency_update.py" timestamp="1527149327482">
         <mark key="'" line="18" column="27" />
@@ -215,11 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="52" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-report/shared/zem-report-query-config/zemReportQueryConfig.component.html" />
-      <jump line="18" column="27" filename="$USER_HOME$/Git/zemanta-eins/server/dash/management/commands/multicurrency_update.py" />
-      <jump line="6" column="16" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/update.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Git/zemanta-eins/server/dash/constants.py" />
-      <jump line="20" column="19" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
       <jump line="13" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
       <jump line="9" column="9" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
       <jump line="22" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/reports.py" />
@@ -315,13 +310,18 @@
       <jump line="23" column="49" filename="$USER_HOME$/Git/zemanta-eins/server/core/goals/service.py" />
       <jump line="9" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/service.py" />
       <jump line="36" column="43" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
+      <jump line="157" column="20" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" />
+      <jump line="138" column="0" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" />
+      <jump line="167" column="0" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" />
+      <jump line="63" column="12" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUuZmllbGRzRXJyb3JzID0ge307Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>'',</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
@@ -329,32 +329,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmFtZT0neHl6JywK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUuZmllbGRzRXJyb3JzID0ge307Cg==</text>
+      <register name="1" type="8">
+        <text>state
+state
+state
+state</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0neHl6JywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUuZmllbGRzRXJyb3JzID0ge307Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWFiX2NhdGVnb3J5PWRhc2guY29uc3RhbnRzLklBQkNhdGVnb3J5LklBQjFfMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0neHl6JywK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWFiX2NhdGVnb3J5PWRhc2guY29uc3RhbnRzLklBQkNhdGVnb3J5LklBQjFfMSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFkX2dyb3VwLnNldHRpbmdzLmRhaWx5X2J1ZGdldF9jYywgRGVjaW1hbCgnMTUuMicpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWFiX2NhdGVnb3J5PWRhc2guY29uc3RhbnRzLklBQkNhdGVnb3J5LklBQjFfMSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQ2OiBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFkX2dyb3VwLnNldHRpbmdzLmRhaWx5X2J1ZGdldF9jYywgRGVjaW1hbCgnMTUuMicpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQ2OiBbXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQ2OiBudWxsLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlc3RfZnJhbWV3b3JrLnNlcmlhbGl6ZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQ2OiBbXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAndGFyZ2V0X29zJzogW10sCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlc3RfZnJhbWV3b3JrLnNlcmlhbGl6ZXJzCg==</text>
       </register>
     </registers>
     <search>
