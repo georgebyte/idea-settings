@@ -20,13 +20,6 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.endpoint.js" timestamp="1527484995516" />
-      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" timestamp="1527489980759">
-        <mark key="'" line="82" column="51" />
-        <mark key="[" line="60" column="24" />
-        <mark key="]" line="61" column="7" />
-        <mark key="." line="61" column="7" />
-        <mark key="^" line="61" column="7" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/update.py" timestamp="1527156038727">
         <mark key="'" line="7" column="24" />
       </file>
@@ -55,17 +48,17 @@
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/adgroup/ad_group/model.py" timestamp="1527230538206">
         <mark key="'" line="123" column="37" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" timestamp="1527489832089">
-        <mark key="'" line="69" column="45" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="63" column="52" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" timestamp="1527495384343">
+        <mark key="'" line="32" column="24" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="33" column="35" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-review/zemCampaignLauncherReview.component.js" timestamp="1527490780681">
-        <mark key="[" line="107" column="5" />
-        <mark key="]" line="107" column="5" />
-        <mark key="." line="107" column="5" />
+        <mark key="[" line="109" column="5" />
+        <mark key="]" line="109" column="5" />
+        <mark key="." line="109" column="5" />
       </file>
       <file name="$USER_HOME$/Git/verdi/client/tslint.json" timestamp="1527489266276">
         <mark key="[" line="205" column="24" />
@@ -74,15 +67,13 @@
         <mark key="." line="205" column="22" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" timestamp="1527489689911">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.js" timestamp="1527490477704">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="103" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="103" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.ts" timestamp="1527489496250" />
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/scheduled_reports/views_test.py" timestamp="1527147310076">
@@ -95,11 +86,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" timestamp="1527491221193">
-        <mark key="[" line="202" column="64" />
-        <mark key="]" line="202" column="64" />
-        <mark key="." line="202" column="64" />
-        <mark key="^" line="202" column="64" />
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" timestamp="1527495115855">
+        <mark key="'" line="95" column="48" />
+        <mark key="[" line="197" column="37" />
+        <mark key="]" line="197" column="43" />
+        <mark key="." line="197" column="43" />
+        <mark key="^" line="197" column="43" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/management/commands/multicurrency_update.py" timestamp="1527149327482">
         <mark key="'" line="18" column="27" />
@@ -194,10 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="15" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/gbp.py" />
-      <jump line="6" column="23" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/gbp.py" />
-      <jump line="4" column="15" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" />
-      <jump line="5" column="21" filename="$USER_HOME$/Git/zemanta-eins/server/automation/campaignstop/service/selection.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/__init__.py" />
       <jump line="3" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/automation/campaignstop/service/selection.py" />
       <jump line="0" column="10" filename="$USER_HOME$/Git/zemanta-eins/server/core/multicurrency/service/eur.py" />
@@ -294,46 +282,47 @@
       <jump line="62" column="37" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
       <jump line="74" column="52" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
       <jump line="69" column="45" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
+      <jump line="95" column="48" filename="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" />
+      <jump line="32" column="24" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
+      <jump line="56" column="32" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" />
+      <jump line="39" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/serializers/targeting.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgdXRpbHMuZXhjLlZhbGlkYXRpb25FcnJvcihlcnJvcnM9ZXJyb3JzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpZWxkcyA9IHt9OwogICAgICAgICAgICBhbmd1bGFyLmZvckVhY2goc3RhdGUuZmllbGRzLCBmdW5jdGlvbiAodmFsdWUsIG5hbWUpIHsKICAgICAgICAgICAgICAgIGlmICh2YWx1ZSkgewogICAgICAgICAgICAgICAgICAgIGZpZWxkc1tuYW1lXSA9IHZhbHVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAndGFyZ2V0X29zJzogW10sCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyAndGFyZ2V0X29zJzogW10sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlLCBuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAndGFyZ2V0X3BsYWNlbWVudHMnOiBbXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZSwgbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGFpbHlfYnVkZ2V0X2NjPWRhaWx5X2J1ZGdldCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh2YWx1ZSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBQUlRPRE8gKGp1cmViYWp0KTogSXMgdGhpcyBzdGlsbCBuZWVkZWQ/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWVsZHNbbmFtZV0gPSB2YWx1ZTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>[
-      true,
-      &quot;never&quot;
-    ],</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpZWxkcyA9IHN0YXRlLmZpZWxkcy5tYXAoZnVuY3Rpb24gKHZhbHVlKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdmFsdWUgfHwgbnVsbDsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaE1hcChfID0+IGIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5ndWxhci5mb3JFYWNoKHN0YXRlLmZpZWxkcywgZnVuY3Rpb24gKHZhbHVlLCBuYW1lKSB7CiAgICAgICAgICAgICAgICBpZiAodmFsdWUpIHsKICAgICAgICAgICAgICAgICAgICBmaWVsZHNbbmFtZV0gPSB2YWx1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByYWlzZSByZXN0X2ZyYW1ld29yay5zZXJpYWxpemVycy5WYWxpZGF0aW9uRXJyb3IoZXJyb3JzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgdXRpbHMuZXhjLlZhbGlkYXRpb25FcnJvcih7J2RhaWx5X2J1ZGdldCc6IFsnU2hvdWxkIGJlIGF0IGxlYXN0ICQzNCddfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpZWxkcyA9IHt9OwogICAgICAgICAgICBhbmd1bGFyLmZvckVhY2goc3RhdGUuZmllbGRzLCBmdW5jdGlvbiAodmFsdWUsIG5hbWUpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG5hbWUsIHZhbHVlKTsKICAgICAgICAgICAgICAgIGlmICh2YWx1ZSAhPT0gbnVsbCAmJiB2YWx1ZSAhPT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgICAgICAgICAgZmllbGRzW25hbWVdID0gdmFsdWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>{</text>
       </register>
     </registers>
     <search>
