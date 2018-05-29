@@ -96,6 +96,13 @@
       <file name="$USER_HOME$/Git/verdi/server/viauth/apps.py" timestamp="1527324766722">
         <mark key="'" line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Git/verdi/server/viauth/urls.py" timestamp="1527621937924">
+        <mark key="'" line="25" column="50" />
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/stats/helpers.py" timestamp="1527140738846">
         <mark key="[" line="301" column="0" />
         <mark key="]" line="308" column="0" />
@@ -147,11 +154,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/verdi/server/server/urls.py" timestamp="1527616924018">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="21" column="49" />
-        <mark key="^" line="21" column="49" />
-        <mark key="." line="21" column="49" />
+      <file name="$USER_HOME$/Git/verdi/server/server/urls.py" timestamp="1527621587707">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="19" column="10" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/dictionaries/jure.xml" timestamp="1527061105147">
         <mark key="[" line="2" column="0" />
@@ -206,6 +213,9 @@
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/report/views.py" timestamp="1527243411832">
         <mark key="'" line="24" column="36" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/urls.py" timestamp="1527620769139">
+        <mark key="'" line="26" column="39" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/forms.py" timestamp="1527232476437">
         <mark key="'" line="133" column="8" />
@@ -263,9 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/automation/autopilot/budgets.py" />
-      <jump line="41" column="43" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" />
-      <jump line="53" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/core/goals/campaign_goal/model.py" />
       <jump line="67" column="32" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" />
       <jump line="37" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/core/goals/campaign_goal/model.py" />
       <jump line="72" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" />
@@ -363,13 +370,16 @@
       <jump line="48" column="12" filename="$USER_HOME$/Git/AdReview/.idea/workspace.xml" />
       <jump line="324" column="38" filename="$USER_HOME$/Git/AdReview/.idea/workspace.xml" />
       <jump line="86" column="14" filename="$USER_HOME$/Git/verdi/server/server/settings.py" />
+      <jump line="2" column="29" filename="$USER_HOME$/Git/verdi/server/viauth/urls.py" />
+      <jump line="26" column="39" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/urls.py" />
+      <jump line="9" column="50" filename="$USER_HOME$/Git/verdi/server/viauth/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>minutes</text>
+        <text>view</text>
       </register>
       <register name="-" type="4">
-        <text>minutes</text>
+        <text>view</text>
       </register>
       <register name="/" type="4">
         <text>AdReview.iml</text>
@@ -381,16 +391,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgRGpvc2VyIC0gUkVTVCBpbXBsZW1lbnRhdGlvbiBvZiBEamFuZ28gYXV0aGVudGljYXRpb24gc3lzdGVtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlX3BhdGgocideYXBpLycsIGluY2x1ZGUoJ2Rqb3Nlci51cmxzLmp3dCcpKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVmlld3MgYXJlIGRlZmluZWQgaW4gUmVzdCBGcmFtZXdvcmsgSldULCBidXQgd2UncmUgYXNzaWduaW5nIGN1c3RvbSBwYXRocy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVmlld3MgYXJlIGRlZmluZWQgaW4gRGpvc2VyLCBidXQgd2UncmUgYXNzaWduaW5nIGN1c3RvbSBwYXRocy4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
