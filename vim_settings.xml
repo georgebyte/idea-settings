@@ -155,6 +155,9 @@
         <mark key="." line="262" column="23" />
         <mark key="^" line="262" column="23" />
       </file>
+      <file name="/Dummy.txt" timestamp="1527584385478">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/tslint.json" timestamp="1527488118572">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="7" column="22" />
