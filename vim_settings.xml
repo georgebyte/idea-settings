@@ -143,6 +143,11 @@
         <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.ts" timestamp="1527489496250" />
+      <file name="$USER_HOME$/Git/AdReview/.gitignore" timestamp="1527582572779">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="31" column="5" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" timestamp="1527508390754">
         <mark key="'" line="158" column="27" />
         <mark key="[" line="262" column="24" />
@@ -290,11 +295,11 @@
       <jump line="46" column="0" filename="$USER_HOME$/Git/zemanta-eins/server/dash/campaign_goals.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VGVzdEdvYWxzU2VydmljZQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>places</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>function</text>
