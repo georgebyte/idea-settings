@@ -59,10 +59,6 @@
         <mark key="]" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.js" timestamp="1527490477704">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="103" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/scheduled_reports/views_test.py" timestamp="1527147310076">
         <mark key="[" line="81" column="17" />
         <mark key="]" line="81" column="47" />
@@ -146,6 +142,17 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Git/verdi/docker-compose.yml" timestamp="1527616738482">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/verdi/server/server/urls.py" timestamp="1527616924018">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="21" column="49" />
+        <mark key="^" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/dictionaries/jure.xml" timestamp="1527061105147">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -210,8 +217,12 @@
       <file name="$USER_HOME$/Git/AdReview/.idea/workspace.xml" timestamp="1527587567597">
         <mark key="'" line="335" column="38" />
       </file>
-      <file name="$USER_HOME$/Git/verdi/server/server/settings.py" timestamp="1527323786562">
-        <mark key="'" line="110" column="17" />
+      <file name="$USER_HOME$/Git/verdi/server/server/settings.py" timestamp="1527617331454">
+        <mark key="'" line="87" column="14" />
+        <mark key="[" line="104" column="47" />
+        <mark key="]" line="104" column="53" />
+        <mark key="^" line="104" column="53" />
+        <mark key="." line="104" column="53" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.html" timestamp="1527226978285">
         <mark key="[" line="113" column="55" />
@@ -245,9 +256,13 @@
       <file name="/fragment.java" timestamp="1527589605976">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Git/verdi/server/requirements.txt" timestamp="1527616099573">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="52" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
       <jump line="229" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/automation/autopilot/budgets.py" />
       <jump line="41" column="43" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" />
       <jump line="53" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/core/goals/campaign_goal/model.py" />
@@ -347,13 +362,14 @@
       <jump line="15" column="42" filename="$USER_HOME$/Git/AdReview/.idea/workspace.xml" />
       <jump line="48" column="12" filename="$USER_HOME$/Git/AdReview/.idea/workspace.xml" />
       <jump line="324" column="38" filename="$USER_HOME$/Git/AdReview/.idea/workspace.xml" />
+      <jump line="86" column="14" filename="$USER_HOME$/Git/verdi/server/server/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>minutes</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>minutes</text>
       </register>
       <register name="/" type="4">
         <text>AdReview.iml</text>
@@ -362,10 +378,10 @@
         <text encoding="base64">ICAgICAgICBjb252ZXJ0ZWRfdmFsdWUgPSB1dGlscy5udW1iZXJzLnJvdW5kX3NpZ25pZmljYW50KGNvbnZlcnRlZF92YWx1ZSAqIGV4Y2hhbmdlX3JhdGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VGVzdEdvYWxzU2VydmljZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZWRfdmFsdWUgPSBjb252ZXJ0ZWRfdmFsdWUgKiBleGNoYW5nZV9yYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -374,22 +390,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiByb3VuZF9zaWcoeCwgc2lnPTIpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>state
-state
-state
-state</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUuZmllbGRzRXJyb3JzID0ge307Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0neHl6JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWFiX2NhdGVnb3J5PWRhc2guY29uc3RhbnRzLklBQkNhdGVnb3J5LklBQjFfMSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
