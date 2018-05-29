@@ -43,7 +43,6 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
-  <action id="Find" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta alt g" />
   </action>
