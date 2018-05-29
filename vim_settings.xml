@@ -182,7 +182,7 @@
         <mark key="." line="262" column="23" />
         <mark key="^" line="262" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527584385478">
+      <file name="/Dummy.txt" timestamp="1527589605987">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/management/commands/multicurrency_update.py" timestamp="1527149327482">
@@ -241,6 +241,9 @@
       </file>
       <file name="$USER_HOME$/Git/verdi/server/viauth/views.py" timestamp="1527324244189">
         <mark key="'" line="0" column="8" />
+      </file>
+      <file name="/fragment.java" timestamp="1527589605976">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
