@@ -96,12 +96,12 @@
       <file name="$USER_HOME$/Git/verdi/server/viauth/apps.py" timestamp="1527324766722">
         <mark key="'" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Git/verdi/server/viauth/urls.py" timestamp="1527621937924">
+      <file name="$USER_HOME$/Git/verdi/server/viauth/urls.py" timestamp="1527622732030">
         <mark key="'" line="25" column="50" />
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-        <mark key="^" line="16" column="12" />
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="43" column="26" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/stats/helpers.py" timestamp="1527140738846">
         <mark key="[" line="301" column="0" />
@@ -154,11 +154,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/verdi/server/server/urls.py" timestamp="1527621587707">
-        <mark key="[" line="19" column="10" />
-        <mark key="]" line="19" column="10" />
+      <file name="$USER_HOME$/Git/verdi/server/server/urls.py" timestamp="1527622840185">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
         <mark key="^" line="19" column="36" />
-        <mark key="." line="19" column="10" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/dictionaries/jure.xml" timestamp="1527061105147">
         <mark key="[" line="2" column="0" />
@@ -376,37 +376,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>view</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>view</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>AdReview.iml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZWRfdmFsdWUgPSB1dGlscy5udW1iZXJzLnJvdW5kX3NpZ25pZmljYW50KGNvbnZlcnRlZF92YWx1ZSAqIGV4Y2hhbmdlX3JhdGUpCg==</text>
+        <text encoding="base64">ICAgIHBhdGgoCiAgICAgICAgJ3VzZXIvZW1haWwvJywKICAgICAgICBkam9zZXIudmlld3MuU2V0VXNlcm5hbWVWaWV3LmFzX3ZpZXcoKSwKICAgICAgICBuYW1lPSd1c2VyX2VtYWlsJwogICAgKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGgoCiAgICAgICAgJ3VzZXIvbWUvJywKICAgICAgICBkam9zZXIudmlld3MuVXNlclZpZXcuYXNfdmlldygpLAogICAgICAgIG5hbWU9J3VzZXJfdmlldycKICAgICksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgRGpvc2VyIC0gUkVTVCBpbXBsZW1lbnRhdGlvbiBvZiBEamFuZ28gYXV0aGVudGljYXRpb24gc3lzdGVtCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlX3BhdGgocideYXBpLycsIGluY2x1ZGUoJ2Rqb3Nlci51cmxzLmp3dCcpKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVmlld3MgYXJlIGRlZmluZWQgaW4gUmVzdCBGcmFtZXdvcmsgSldULCBidXQgd2UncmUgYXNzaWduaW5nIGN1c3RvbSBwYXRocy4K</text>
+        <text encoding="base64">ICAgICMgRGpvc2VyIC0gUkVTVCBpbXBsZW1lbnRhdGlvbiBvZiBEamFuZ28gYXV0aGVudGljYXRpb24gc3lzdGVtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgVmlld3MgYXJlIGRlZmluZWQgaW4gRGpvc2VyLCBidXQgd2UncmUgYXNzaWduaW5nIGN1c3RvbSBwYXRocy4K</text>
+        <text encoding="base64">ICAgIHJlX3BhdGgocideYXBpLycsIGluY2x1ZGUoJ2Rqb3Nlci51cmxzLmp3dCcpKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVmlld3MgYXJlIGRlZmluZWQgaW4gUmVzdCBGcmFtZXdvcmsgSldULCBidXQgd2UncmUgYXNzaWduaW5nIGN1c3RvbSBwYXRocy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVmlld3MgYXJlIGRlZmluZWQgaW4gRGpvc2VyLCBidXQgd2UncmUgYXNzaWduaW5nIGN1c3RvbSBwYXRocy4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
