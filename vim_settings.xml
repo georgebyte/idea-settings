@@ -207,6 +207,9 @@
         <mark key="." line="133" column="59" />
         <mark key="^" line="133" column="59" />
       </file>
+      <file name="$USER_HOME$/Git/AdReview/.idea/workspace.xml" timestamp="1527587567597">
+        <mark key="'" line="324" column="38" />
+      </file>
       <file name="$USER_HOME$/Git/verdi/server/server/settings.py" timestamp="1527323786562">
         <mark key="'" line="110" column="17" />
       </file>
@@ -241,11 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" />
-      <jump line="47" column="79" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
-      <jump line="134" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/dash/forms.py" />
-      <jump line="44" column="34" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
-      <jump line="45" column="47" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
       <jump line="46" column="52" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" />
       <jump line="229" column="4" filename="$USER_HOME$/Git/zemanta-eins/server/automation/autopilot/budgets.py" />
       <jump line="41" column="43" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" />
@@ -341,6 +339,11 @@
       <jump line="3" column="38" filename="$USER_HOME$/Git/AdReview/src/main/kotlin/com/outbrain/zemanta/AdReview/AdReviewApplication.kt" />
       <jump line="9" column="27" filename="$USER_HOME$/Git/AdReview/src/main/kotlin/com/outbrain/zemanta/AdReview/AdReviewApplication.kt" />
       <jump line="6" column="6" filename="$USER_HOME$/Git/AdReview/src/main/kotlin/com/outbrain/zemanta/AdReview/AdReviewApplication.kt" />
+      <jump line="13" column="9" filename="$USER_HOME$/Git/AdReview/.idea/workspace.xml" />
+      <jump line="14" column="28" filename="$USER_HOME$/Git/AdReview/.idea/workspace.xml" />
+      <jump line="15" column="42" filename="$USER_HOME$/Git/AdReview/.idea/workspace.xml" />
+      <jump line="48" column="12" filename="$USER_HOME$/Git/AdReview/.idea/workspace.xml" />
+      <jump line="324" column="38" filename="$USER_HOME$/Git/AdReview/.idea/workspace.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -350,7 +353,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>function</text>
+        <text>AdReview.iml</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb252ZXJ0ZWRfdmFsdWUgPSB1dGlscy5udW1iZXJzLnJvdW5kX3NpZ25pZmljYW50KGNvbnZlcnRlZF92YWx1ZSAqIGV4Y2hhbmdlX3JhdGUpCg==</text>
@@ -387,9 +390,9 @@ state</text>
       </register>
     </registers>
     <search>
-      <last-search>function</last-search>
+      <last-search>AdReview.iml</last-search>
       <last-offset />
-      <last-pattern>function</last-pattern>
+      <last-pattern>AdReview.iml</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -401,6 +404,7 @@ state</text>
         <entry>self</entry>
         <entry>catch</entry>
         <entry>function</entry>
+        <entry>AdReview.iml</entry>
       </history-search>
       <history-cmd />
       <history-expr />
