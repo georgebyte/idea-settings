@@ -45,6 +45,11 @@
         <mark key="]" line="107" column="5" />
         <mark key="." line="107" column="5" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/core/goals/service_test.py" timestamp="1527513582352">
+        <mark key="[" line="29" column="66" />
+        <mark key="]" line="29" column="67" />
+        <mark key="." line="29" column="67" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.js" timestamp="1527490477704">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="103" />
@@ -97,11 +102,11 @@
       <file name="$USER_HOME$/Git/verdi/server/viauth/models.py" timestamp="1527324779075">
         <mark key="'" line="35" column="24" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/utils/numbers.py" timestamp="1527512513542">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/Git/zemanta-eins/server/utils/numbers.py" timestamp="1527513615273">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/instance.py" timestamp="1527242166904">
         <mark key="'" line="28" column="37" />
@@ -327,8 +332,8 @@
       <jump line="46" column="0" filename="$USER_HOME$/Git/zemanta-eins/server/dash/campaign_goals.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>places</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VGVzdEdvYWxzU2VydmljZQo=</text>
       </register>
       <register name="-" type="4">
         <text>places</text>
@@ -340,31 +345,31 @@
         <text encoding="base64">ICAgICAgICBjb252ZXJ0ZWRfdmFsdWUgPSB1dGlscy5udW1iZXJzLnJvdW5kX3NpZ25pZmljYW50KGNvbnZlcnRlZF92YWx1ZSAqIGV4Y2hhbmdlX3JhdGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZWRfdmFsdWUgPSBjb252ZXJ0ZWRfdmFsdWUgKiBleGNoYW5nZV9yYXRlCg==</text>
+        <text encoding="base64">VGVzdEdvYWxzU2VydmljZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZWRfdmFsdWUgPSBjb252ZXJ0ZWRfdmFsdWUgKiBleGNoYW5nZV9yYXRlCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGRlZiByb3VuZF9zaWcoeCwgc2lnPTIpOgo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>state
 state
 state
 state</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUuZmllbGRzRXJyb3JzID0ge307Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0neHl6JywK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWFiX2NhdGVnb3J5PWRhc2guY29uc3RhbnRzLklBQkNhdGVnb3J5LklBQjFfMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0neHl6JywK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWFiX2NhdGVnb3J5PWRhc2guY29uc3RhbnRzLklBQkNhdGVnb3J5LklBQjFfMSwK</text>
