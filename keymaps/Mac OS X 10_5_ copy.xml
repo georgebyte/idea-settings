@@ -9,7 +9,7 @@
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="shift meta t" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift meta c" />
@@ -76,7 +76,7 @@
   <action id="Rerun" />
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SelectAllOccurrences">
-    <keyboard-shortcut first-keystroke="meta alt f" />
+    <keyboard-shortcut first-keystroke="meta alt d" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift meta e" />
@@ -92,9 +92,7 @@
   </action>
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
-  <action id="UnselectPreviousOccurrence">
-    <keyboard-shortcut first-keystroke="meta alt d" />
-  </action>
+  <action id="UnselectPreviousOccurrence" />
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="meta e" />
