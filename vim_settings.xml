@@ -96,8 +96,8 @@
       <file name="$USER_HOME$/Git/verdi/server/viauth/apps.py" timestamp="1527324766722">
         <mark key="'" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Git/verdi/server/viauth/urls.py" timestamp="1527622732030">
-        <mark key="'" line="25" column="50" />
+      <file name="$USER_HOME$/Git/verdi/server/viauth/urls.py" timestamp="1527658984405">
+        <mark key="'" line="2" column="29" />
         <mark key="[" line="28" column="19" />
         <mark key="]" line="28" column="19" />
         <mark key="." line="28" column="19" />
@@ -154,7 +154,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/verdi/server/server/urls.py" timestamp="1527622840185">
+      <file name="$USER_HOME$/Git/verdi/server/server/urls.py" timestamp="1527658970412">
+        <mark key="'" line="16" column="26" />
         <mark key="[" line="16" column="30" />
         <mark key="]" line="16" column="30" />
         <mark key="^" line="19" column="36" />
@@ -273,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="32" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" />
       <jump line="37" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/core/goals/campaign_goal/model.py" />
       <jump line="72" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" />
       <jump line="123" column="37" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/adgroup/ad_group/model.py" />
@@ -370,9 +370,10 @@
       <jump line="48" column="12" filename="$USER_HOME$/Git/AdReview/.idea/workspace.xml" />
       <jump line="324" column="38" filename="$USER_HOME$/Git/AdReview/.idea/workspace.xml" />
       <jump line="86" column="14" filename="$USER_HOME$/Git/verdi/server/server/settings.py" />
-      <jump line="2" column="29" filename="$USER_HOME$/Git/verdi/server/viauth/urls.py" />
       <jump line="26" column="39" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/urls.py" />
       <jump line="9" column="50" filename="$USER_HOME$/Git/verdi/server/viauth/urls.py" />
+      <jump line="16" column="26" filename="$USER_HOME$/Git/verdi/server/server/urls.py" />
+      <jump line="2" column="29" filename="$USER_HOME$/Git/verdi/server/viauth/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
