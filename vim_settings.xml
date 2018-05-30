@@ -69,6 +69,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Git/AdReview/src/main/kotlin/com/outbrain/zemanta/AdReview/controllers/GreetingController.kt" timestamp="1527666444382">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/data-filter/zemDataFilter.service.js" timestamp="1527093154522">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -79,11 +84,6 @@
         <mark key="]" line="233" column="50" />
         <mark key="^" line="233" column="50" />
         <mark key="." line="233" column="50" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.spec.js" timestamp="1527496879172">
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
-        <mark key="." line="236" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/helpers.py" timestamp="1527143304605">
         <mark key="[" line="132" column="0" />
@@ -250,11 +250,6 @@
         <mark key="^" line="25" column="115" />
         <mark key="." line="34" column="95" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/package.json" timestamp="1527489309623">
-        <mark key="[" line="54" column="26" />
-        <mark key="]" line="54" column="26" />
-        <mark key="." line="54" column="26" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zem-campaign-launcher-goal/zemCampaignLauncherGoal.component.js" timestamp="1527227058171">
         <mark key="[" line="8" column="62" />
         <mark key="]" line="8" column="86" />
@@ -377,10 +372,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>AdReview.iml</text>
