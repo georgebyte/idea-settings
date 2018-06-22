@@ -9,7 +9,6 @@
         <mark key="^" line="34" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.endpoint.js" timestamp="1527484995516" />
       <file name="$USER_HOME$/Git/AdReview/.idea/modules.xml" timestamp="1527582463200">
         <mark key="[" line="4" column="44" />
         <mark key="]" line="4" column="25" />
@@ -138,7 +137,6 @@
       <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/adgroupsource/views.py" timestamp="1527242119766">
         <mark key="'" line="46" column="45" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/automation/campaignstop/service/validation_test.py" timestamp="1527570614668" />
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.component.ts" timestamp="1527488238555">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -179,6 +177,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="33" column="35" />
       </file>
+      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/GreetingController.kt" timestamp="1529651434883">
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="51" />
+        <mark key="^" line="17" column="51" />
+        <mark key="." line="17" column="51" />
+      </file>
       <file name="$USER_HOME$/Git/verdi/client/tslint.json" timestamp="1527489266276">
         <mark key="[" line="205" column="24" />
         <mark key="]" line="205" column="22" />
@@ -190,7 +194,6 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.ts" timestamp="1527489496250" />
       <file name="$USER_HOME$/Git/AdReview/.gitignore" timestamp="1527582572779">
         <mark key="[" line="31" column="5" />
         <mark key="]" line="31" column="5" />
