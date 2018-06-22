@@ -58,11 +58,11 @@
         <mark key="]" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/IndexController.kt" timestamp="1529656517249">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="18" />
-        <mark key="." line="13" column="18" />
-        <mark key="^" line="13" column="18" />
+      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/IndexController.kt" timestamp="1529657797879">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/scheduled_reports/views_test.py" timestamp="1527147310076">
         <mark key="[" line="81" column="17" />
@@ -84,6 +84,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/Git/sspd/src/main/resources/templates/index.html" timestamp="1529658050899" />
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/views/agency_test.py" timestamp="1527234875813">
         <mark key="[" line="233" column="43" />
         <mark key="]" line="233" column="50" />
@@ -399,10 +400,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>app</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>AdReview.iml</text>
@@ -411,31 +412,31 @@
         <text encoding="base64">ICAgIHBhdGgoCiAgICAgICAgJ3VzZXIvZW1haWwvJywKICAgICAgICBkam9zZXIudmlld3MuU2V0VXNlcm5hbWVWaWV3LmFzX3ZpZXcoKSwKICAgICAgICBuYW1lPSd1c2VyX2VtYWlsJwogICAgKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhdGgoCiAgICAgICAgJ3VzZXIvbWUvJywKICAgICAgICBkam9zZXIudmlld3MuVXNlclZpZXcuYXNfdmlldygpLAogICAgICAgIG5hbWU9J3VzZXJfdmlldycKICAgICksCg==</text>
+        <text encoding="base64">Ci8vICAgICAgICByZXR1cm4gIkhlbGxvIHVzZXIgd2l0aCBpZCAiICsgdXNlckluZm8uaWQgKyAiIGFuZCBlbWFpbCAiICsgIHVzZXJJbmZvLmVtYWlsICsgIi4gXG5cbiIgKwovLyAgICAgICAgICAgICAgICAiWW91ciBwZXJtaXNzaW9ucyBhcmU6IFxuXG4iICsgdXNlckluZm8ucGVybWlzc2lvbnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGgoCiAgICAgICAgJ3VzZXIvbWUvJywKICAgICAgICBkam9zZXIudmlld3MuVXNlclZpZXcuYXNfdmlldygpLAogICAgICAgIG5hbWU9J3VzZXJfdmlldycKICAgICksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgRGpvc2VyIC0gUkVTVCBpbXBsZW1lbnRhdGlvbiBvZiBEamFuZ28gYXV0aGVudGljYXRpb24gc3lzdGVtCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlX3BhdGgocideYXBpLycsIGluY2x1ZGUoJ2Rqb3Nlci51cmxzLmp3dCcpKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgVmlld3MgYXJlIGRlZmluZWQgaW4gUmVzdCBGcmFtZXdvcmsgSldULCBidXQgd2UncmUgYXNzaWduaW5nIGN1c3RvbSBwYXRocy4K</text>
+        <text encoding="base64">ICAgICMgRGpvc2VyIC0gUkVTVCBpbXBsZW1lbnRhdGlvbiBvZiBEamFuZ28gYXV0aGVudGljYXRpb24gc3lzdGVtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVmlld3MgYXJlIGRlZmluZWQgaW4gRGpvc2VyLCBidXQgd2UncmUgYXNzaWduaW5nIGN1c3RvbSBwYXRocy4K</text>
+        <text encoding="base64">ICAgIHJlX3BhdGgocideYXBpLycsIGluY2x1ZGUoJ2Rqb3Nlci51cmxzLmp3dCcpKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVmlld3MgYXJlIGRlZmluZWQgaW4gUmVzdCBGcmFtZXdvcmsgSldULCBidXQgd2UncmUgYXNzaWduaW5nIGN1c3RvbSBwYXRocy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVmlld3MgYXJlIGRlZmluZWQgaW4gRGpvc2VyLCBidXQgd2UncmUgYXNzaWduaW5nIGN1c3RvbSBwYXRocy4K</text>
       </register>
     </registers>
     <search>
