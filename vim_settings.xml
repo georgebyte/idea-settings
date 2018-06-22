@@ -58,11 +58,10 @@
         <mark key="]" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/IndexController.kt" timestamp="1529666017829">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/IndexController.kt" timestamp="1529668455125">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/scheduled_reports/views_test.py" timestamp="1527147310076">
         <mark key="[" line="81" column="17" />
@@ -116,11 +115,11 @@
       <file name="$USER_HOME$/Git/verdi/server/viauth/tests.py" timestamp="1527323767792">
         <mark key="'" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/resources/application.properties" timestamp="1529665995872">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="4" column="54" />
+      <file name="$USER_HOME$/Git/sspd/src/main/resources/application.properties" timestamp="1529667804865">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="46" />
         <mark key="^" line="4" column="54" />
-        <mark key="." line="4" column="54" />
+        <mark key="." line="4" column="46" />
       </file>
       <file name="$USER_HOME$/Git/verdi/server/viauth/models.py" timestamp="1527324779075">
         <mark key="'" line="35" column="24" />
@@ -405,10 +404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vdXRicmFpbi56ZW1hbnRhLnNzcGQuYXV0aC5Vc2VySW5mbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>AdReview.iml</text>
@@ -417,31 +416,39 @@
         <text encoding="base64">ICAgIHBhdGgoCiAgICAgICAgJ3VzZXIvZW1haWwvJywKICAgICAgICBkam9zZXIudmlld3MuU2V0VXNlcm5hbWVWaWV3LmFzX3ZpZXcoKSwKICAgICAgICBuYW1lPSd1c2VyX2VtYWlsJwogICAgKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vdXRicmFpbi56ZW1hbnRhLnNzcGQuYXV0aC5Vc2VySW5mbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJlc291cmNlTG9hZGVyOiBSZXNvdXJjZUxvYWRlcj8gPSBudWxsCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uV2ViTXZjQ29uZmlndXJlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vdXRicmFpbi56ZW1hbnRhLnNzcGQuYXV0aC5Vc2VySW5mbwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uRW5hYmxlV2ViTXZjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8vICAgICAgICByZXR1cm4gIkhlbGxvIHVzZXIgd2l0aCBpZCAiICsgdXNlckluZm8uaWQgKyAiIGFuZCBlbWFpbCAiICsgIHVzZXJJbmZvLmVtYWlsICsgIi4gXG5cbiIgKwovLyAgICAgICAgICAgICAgICAiWW91ciBwZXJtaXNzaW9ucyBhcmU6IFxuXG4iICsgdXNlckluZm8ucGVybWlzc2lvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
+      <register name="6" type="4">
+        <text>@Configuration
+@EnableWebMvc
+class MvcConfig : WebMvcConfigurer {
+    override fun addResourceHandlers(registry: ResourceHandlerRegistry?) {
+        registry!!
+                .addResourceHandler(&quot;test&quot;)
+                .addResourceLocations(&quot;file:/tmp/&quot;)
+    }
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhdGgoCiAgICAgICAgJ3VzZXIvbWUvJywKICAgICAgICBkam9zZXIudmlld3MuVXNlclZpZXcuYXNfdmlldygpLAogICAgICAgIG5hbWU9J3VzZXJfdmlldycKICAgICksCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vdXRicmFpbi56ZW1hbnRhLnNzcGQuYXV0aC5Vc2VySW5mbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJlc291cmNlTG9hZGVyOiBSZXNvdXJjZUxvYWRlcj8gPSBudWxsCg==</text>
       </register>
     </registers>
     <search>
