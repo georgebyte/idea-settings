@@ -58,11 +58,11 @@
         <mark key="]" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/IndexController.kt" timestamp="1529657797879">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
+      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/IndexController.kt" timestamp="1529662229605">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/scheduled_reports/views_test.py" timestamp="1527147310076">
         <mark key="[" line="81" column="17" />
@@ -84,7 +84,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/resources/templates/index.html" timestamp="1529658050899" />
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/views/agency_test.py" timestamp="1527234875813">
         <mark key="[" line="233" column="43" />
         <mark key="]" line="233" column="50" />
