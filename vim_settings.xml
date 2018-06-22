@@ -58,11 +58,11 @@
         <mark key="]" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/IndexController.kt" timestamp="1529655472711">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="22" />
+      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/IndexController.kt" timestamp="1529656517249">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/scheduled_reports/views_test.py" timestamp="1527147310076">
         <mark key="[" line="81" column="17" />
@@ -158,6 +158,12 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/sspd/src/main/resources/static/index.html" timestamp="1529655765002">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Git/verdi/docker-compose.yml" timestamp="1527616738482">
         <mark key="[" line="5" column="0" />
@@ -387,10 +393,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>AdReview.iml</text>
