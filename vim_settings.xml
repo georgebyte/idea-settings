@@ -195,6 +195,12 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
+      <file name="$USER_HOME$/Git/sspd/pom.xml" timestamp="1529657372340">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+      </file>
       <file name="$USER_HOME$/Git/verdi/client/tslint.json" timestamp="1527489266276">
         <mark key="[" line="205" column="24" />
         <mark key="]" line="205" column="22" />
