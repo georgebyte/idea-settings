@@ -58,12 +58,6 @@
         <mark key="]" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/IndexController.kt" timestamp="1530017823489">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/scheduled_reports/views_test.py" timestamp="1527147310076">
         <mark key="[" line="81" column="17" />
         <mark key="]" line="81" column="47" />
@@ -117,17 +111,10 @@
       <file name="$USER_HOME$/Git/verdi/server/viauth/tests.py" timestamp="1527323767792">
         <mark key="'" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/resources/application.properties" timestamp="1530085429566">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="3" column="57" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/SspdApplication.kt" timestamp="1530017206335">
-        <mark key="[" line="12" column="55" />
-        <mark key="]" line="12" column="55" />
-        <mark key="." line="12" column="55" />
-        <mark key="^" line="12" column="55" />
+      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/SspdApplication.kt" timestamp="1530086087045">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Git/verdi/server/viauth/models.py" timestamp="1527324779075">
         <mark key="'" line="35" column="24" />
@@ -155,6 +142,12 @@
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/adgroupsource/views.py" timestamp="1527242119766">
         <mark key="'" line="46" column="45" />
+      </file>
+      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/SspdApplicationConfig.kt" timestamp="1530086800829">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="2" />
+        <mark key="^" line="15" column="2" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.component.ts" timestamp="1527488238555">
         <mark key="[" line="36" column="0" />
@@ -210,9 +203,6 @@
       </file>
       <file name="$USER_HOME$/Git/sspd/pom.xml" timestamp="1529657372340">
         <mark key="[" line="36" column="21" />
-        <mark key="]" line="40" column="20" />
-        <mark key="^" line="40" column="20" />
-        <mark key="." line="40" column="20" />
       </file>
       <file name="$USER_HOME$/Git/verdi/client/tslint.json" timestamp="1527489266276">
         <mark key="[" line="205" column="24" />
@@ -411,11 +401,11 @@
       <jump line="2" column="29" filename="$USER_HOME$/Git/verdi/server/viauth/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>AdReview.iml</text>
@@ -424,31 +414,31 @@
         <text encoding="base64">ICAgIHBhdGgoCiAgICAgICAgJ3VzZXIvZW1haWwvJywKICAgICAgICBkam9zZXIudmlld3MuU2V0VXNlcm5hbWVWaWV3LmFzX3ZpZXcoKSwKICAgICAgICBuYW1lPSd1c2VyX2VtYWlsJwogICAgKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbmZpZ3VyYXRpb24KaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uUmVzb3VyY2VIYW5kbGVyUmVnaXN0cnkKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uV2ViTXZjQ29uZmlndXJlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5NZWRpYVR5cGUK</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24KY2xhc3MgU3NwZEFwcGxpY2F0aW9uQ29uZmlnIDogV2ViTXZjQ29uZmlndXJlciB7CiAgICBvdmVycmlkZSBmdW4gYWRkUmVzb3VyY2VIYW5kbGVycyhyZWdpc3RyeTogUmVzb3VyY2VIYW5kbGVyUmVnaXN0cnkpIHsKICAgICAgICByZWdpc3RyeS5hZGRSZXNvdXJjZUhhbmRsZXIoImZhdmljb24uaWNvIikKICAgICAgICAgICAgICAgIC5hZGRSZXNvdXJjZUxvY2F0aW9ucygiZmlsZTovYXBwL3N0YXRpYy8iKTsKICAgIH0KfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5ydW5BcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5HZXRNYXBwaW5nCmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUmVzcG9uc2VCb2R5CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0LmNvbmZpZy5hbm5vdGF0aW9uLlJlc291cmNlSGFuZGxlclJlZ2lzdHJ5CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0LmNvbmZpZy5hbm5vdGF0aW9uLldlYk12Y0NvbmZpZ3VyZXJBZGFwdGVyCmltcG9ydCBzdW4ubWlzYy5JT1V0aWxzCmltcG9ydCBqYXZhLmlvLkZpbGVJbnB1dFN0cmVhbQoKCgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgQEdldE1hcHBpbmcoCi8vICAgICAgICB2YWx1ZSA9ICIvKioiLAovLyAgICAgICAgcHJvZHVjZXMgPSBbTWVkaWFUeXBlLkFQUExJQ0FUSU9OX09DVEVUX1NUUkVBTV9WQUxVRV0KLy8gICAgKQovLyAgICBAUmVzcG9uc2VCb2R5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiByZXR1cm4gSU9VdGlscy50b0J5dGVBcnJheShmaWxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBmID0gRmlsZUlucHV0U3RyZWFtKCIvYXBwL2luZGV4Lmh0bWwiKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgpjbGFzcyBTc3BkQXBwbGljYXRpb24KCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgIHJ1bkFwcGxpY2F0aW9uPFNzcGRBcHBsaWNhdGlvbj4oKmFyZ3MpCn0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NwZWNpZnlpbmcgc3RhdGljIHJlc291cmNlIGxvY2F0aW9uIGZvciB0aGVtZXMgcmVsYXRlZCBmaWxlcyhjc3MgZXRjKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5NZWRpYVR5cGUK</text>
       </register>
     </registers>
     <search>
