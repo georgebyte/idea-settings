@@ -63,7 +63,6 @@
         <mark key="]" line="81" column="47" />
         <mark key="." line="81" column="17" />
       </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/auth/SecurityConfig.kt" timestamp="1530014983202" />
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/inspectionProfiles/Project_Default.xml" timestamp="1527066990264">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -265,6 +264,9 @@
         <mark key="^" line="104" column="53" />
         <mark key="." line="104" column="53" />
       </file>
+      <file name="$USER_HOME$/Git/sspd/server/src/main/kotlin/com/outbrain/zemanta/sspd/models/AffectedBy.kt" timestamp="1531830898453">
+        <mark key="'" line="3" column="44" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.html" timestamp="1527226978285">
         <mark key="[" line="113" column="55" />
         <mark key="]" line="113" column="76" />
@@ -299,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="$USER_HOME$/Git/zemanta-eins/server/core/goals/campaign_goal/model.py" />
       <jump line="72" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" />
       <jump line="123" column="37" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/adgroup/ad_group/model.py" />
       <jump line="24" column="61" filename="$USER_HOME$/Git/zemanta-eins/server/core/goals/service.py" />
@@ -399,6 +400,7 @@
       <jump line="9" column="50" filename="$USER_HOME$/Git/verdi/server/viauth/urls.py" />
       <jump line="16" column="26" filename="$USER_HOME$/Git/verdi/server/server/urls.py" />
       <jump line="2" column="29" filename="$USER_HOME$/Git/verdi/server/viauth/urls.py" />
+      <jump line="3" column="44" filename="$USER_HOME$/Git/sspd/server/src/main/kotlin/com/outbrain/zemanta/sspd/models/AffectedBy.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
