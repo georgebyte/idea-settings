@@ -3,11 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.component.ts" timestamp="1527488238555">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/AdReview/docker-compose.yml" timestamp="1527670277799">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/multicurrency_mixin_test.py" timestamp="1527236009936">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="34" column="49" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.html" timestamp="1527068329191">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/sspd/src/main/resources/static/index.html" timestamp="1529655765002">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Git/AdReview/.idea/modules.xml" timestamp="1527582463200">
         <mark key="[" line="4" column="44" />
@@ -33,26 +55,75 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="39" column="59" />
       </file>
+      <file name="$USER_HOME$/Git/verdi/docker-compose.yml" timestamp="1527616738482">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/entities/endpoints/zemEntityConverter.service.js" timestamp="1527225426023">
         <mark key="[" line="37" column="86" />
         <mark key="]" line="37" column="85" />
         <mark key="." line="37" column="85" />
         <mark key="^" line="37" column="85" />
       </file>
+      <file name="$USER_HOME$/Git/verdi/server/server/urls.py" timestamp="1527658970412">
+        <mark key="'" line="16" column="26" />
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/.idea/dictionaries/jure.xml" timestamp="1527061105147">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-review/zemCampaignLauncherReview.component.js" timestamp="1527490780681">
         <mark key="[" line="107" column="5" />
         <mark key="]" line="107" column="5" />
         <mark key="." line="107" column="5" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" timestamp="1527501137321">
+        <mark key="'" line="36" column="43" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="33" column="35" />
+      </file>
+      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/GreetingController.kt" timestamp="1530017801329">
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="51" />
+        <mark key="^" line="17" column="51" />
+        <mark key="." line="17" column="51" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/goals/service_test.py" timestamp="1527513582352">
         <mark key="[" line="28" column="66" />
         <mark key="]" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
+      <file name="$USER_HOME$/Git/sspd/pom.xml" timestamp="1529657372340">
+        <mark key="[" line="36" column="21" />
+      </file>
+      <file name="$USER_HOME$/Git/verdi/client/tslint.json" timestamp="1527489266276">
+        <mark key="[" line="205" column="24" />
+        <mark key="]" line="205" column="22" />
+        <mark key="^" line="205" column="22" />
+        <mark key="." line="205" column="22" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" timestamp="1527489689911">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/scheduled_reports/views_test.py" timestamp="1527147310076">
         <mark key="[" line="81" column="17" />
         <mark key="]" line="81" column="47" />
         <mark key="." line="81" column="17" />
+      </file>
+      <file name="$USER_HOME$/Git/AdReview/.gitignore" timestamp="1527582572779">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="31" column="5" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/inspectionProfiles/Project_Default.xml" timestamp="1527066990264">
         <mark key="[" line="4" column="0" />
@@ -63,6 +134,22 @@
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="27" />
         <mark key="." line="17" column="27" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" timestamp="1527508390754">
+        <mark key="'" line="158" column="27" />
+        <mark key="[" line="262" column="24" />
+        <mark key="]" line="262" column="23" />
+        <mark key="." line="262" column="23" />
+        <mark key="^" line="262" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1530001248028">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/tslint.json" timestamp="1527488118572">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/data-filter/zemDataFilter.service.js" timestamp="1527093154522">
         <mark key="[" line="54" column="0" />
@@ -80,6 +167,20 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/forms.py" timestamp="1527232476437">
+        <mark key="'" line="133" column="8" />
+        <mark key="[" line="133" column="34" />
+        <mark key="]" line="133" column="59" />
+        <mark key="." line="133" column="59" />
+        <mark key="^" line="133" column="59" />
+      </file>
+      <file name="$USER_HOME$/Git/verdi/server/server/settings.py" timestamp="1527617331454">
+        <mark key="'" line="87" column="14" />
+        <mark key="[" line="104" column="47" />
+        <mark key="]" line="104" column="53" />
+        <mark key="^" line="104" column="53" />
+        <mark key="." line="104" column="53" />
+      </file>
       <file name="$USER_HOME$/Git/verdi/server/viauth/urls.py" timestamp="1527658984405">
         <mark key="'" line="2" column="29" />
         <mark key="[" line="28" column="19" />
@@ -91,6 +192,12 @@
         <mark key="[" line="301" column="0" />
         <mark key="]" line="308" column="0" />
         <mark key="." line="301" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.html" timestamp="1527226978285">
+        <mark key="[" line="113" column="55" />
+        <mark key="]" line="113" column="76" />
+        <mark key="." line="113" column="76" />
+        <mark key="^" line="113" column="76" />
       </file>
       <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/SspdApplication.kt" timestamp="1530086087045">
         <mark key="[" line="4" column="0" />
@@ -110,130 +217,16 @@
         <mark key="^" line="78" column="59" />
         <mark key="." line="78" column="59" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/views/campaign-launcher/zemCampaignLauncherView.controller.js" timestamp="1527322677535">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/SspdApplicationConfig.kt" timestamp="1530086800829">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="2" />
-        <mark key="^" line="15" column="2" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.component.ts" timestamp="1527488238555">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/AdReview/docker-compose.yml" timestamp="1527670277799">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.html" timestamp="1527068329191">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/resources/static/index.html" timestamp="1529655765002">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-      </file>
-      <file name="$USER_HOME$/Git/verdi/docker-compose.yml" timestamp="1527616738482">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/verdi/server/server/urls.py" timestamp="1527658970412">
-        <mark key="'" line="16" column="26" />
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="30" />
-        <mark key="^" line="19" column="36" />
-        <mark key="." line="16" column="30" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/.idea/dictionaries/jure.xml" timestamp="1527061105147">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" timestamp="1527501137321">
-        <mark key="'" line="36" column="43" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="33" column="35" />
-      </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/GreetingController.kt" timestamp="1530017801329">
-        <mark key="[" line="17" column="53" />
-        <mark key="]" line="17" column="51" />
-        <mark key="^" line="17" column="51" />
-        <mark key="." line="17" column="51" />
-      </file>
-      <file name="$USER_HOME$/Git/sspd/pom.xml" timestamp="1529657372340">
-        <mark key="[" line="36" column="21" />
-      </file>
-      <file name="$USER_HOME$/Git/verdi/client/tslint.json" timestamp="1527489266276">
-        <mark key="[" line="205" column="24" />
-        <mark key="]" line="205" column="22" />
-        <mark key="^" line="205" column="22" />
-        <mark key="." line="205" column="22" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" timestamp="1527489689911">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/AdReview/.gitignore" timestamp="1527582572779">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="31" column="5" />
-        <mark key="." line="31" column="5" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" timestamp="1527508390754">
-        <mark key="'" line="158" column="27" />
-        <mark key="[" line="262" column="24" />
-        <mark key="]" line="262" column="23" />
-        <mark key="." line="262" column="23" />
-        <mark key="^" line="262" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1530001248028">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/tslint.json" timestamp="1527488118572">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="7" column="22" />
-        <mark key="^" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/forms.py" timestamp="1527232476437">
-        <mark key="'" line="133" column="8" />
-        <mark key="[" line="133" column="34" />
-        <mark key="]" line="133" column="59" />
-        <mark key="." line="133" column="59" />
-        <mark key="^" line="133" column="59" />
-      </file>
-      <file name="$USER_HOME$/Git/verdi/server/server/settings.py" timestamp="1527617331454">
-        <mark key="'" line="87" column="14" />
-        <mark key="[" line="104" column="47" />
-        <mark key="]" line="104" column="53" />
-        <mark key="^" line="104" column="53" />
-        <mark key="." line="104" column="53" />
-      </file>
-      <file name="$USER_HOME$/Git/adnginob/internals/AdnginobApi/src/main/java/com/outbrain/adnginobApi/AdnginobApiServer.java" timestamp="1563712219496" />
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.html" timestamp="1527226978285">
-        <mark key="[" line="113" column="55" />
-        <mark key="]" line="113" column="76" />
-        <mark key="." line="113" column="76" />
-        <mark key="^" line="113" column="76" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-review/zemCampaignLauncherReview.component.html" timestamp="1527227799490">
         <mark key="[" line="34" column="95" />
         <mark key="]" line="34" column="115" />
         <mark key="^" line="25" column="115" />
         <mark key="." line="34" column="95" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/views/campaign-launcher/zemCampaignLauncherView.controller.js" timestamp="1527322677535">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zem-campaign-launcher-goal/zemCampaignLauncherGoal.component.js" timestamp="1527227058171">
         <mark key="[" line="8" column="62" />
@@ -241,7 +234,13 @@
         <mark key="." line="8" column="86" />
         <mark key="^" line="8" column="86" />
       </file>
-      <file name="/fragment.java" timestamp="1563712734216">
+      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/SspdApplicationConfig.kt" timestamp="1530086800829">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="2" />
+        <mark key="^" line="15" column="2" />
+      </file>
+      <file name="/fragment.java" timestamp="1565268344177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Git/verdi/server/requirements.txt" timestamp="1527616099573">
