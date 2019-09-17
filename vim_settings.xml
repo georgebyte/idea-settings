@@ -251,7 +251,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/adnginob/internals/AdnginobUI/package.json" timestamp="1568709887530" />
+      <file name="$USER_HOME$/Git/adnginob/internals/AdnginobUI/package.json" timestamp="1568717507334">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="19" column="52" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="72" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" />
@@ -357,10 +362,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://localhost:4200,*.adngin.com,*.outbrain.com,https://*.metanetworks.com</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>http://localhost:4200,*.adngin.com,*.outbrain.com,https://*.metanetworks.com</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>AdReview.iml</text>
