@@ -3,33 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.component.ts" timestamp="1527488238555">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/AdReview/docker-compose.yml" timestamp="1527670277799">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/multicurrency_mixin_test.py" timestamp="1527236009936">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="34" column="49" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.html" timestamp="1527068329191">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/resources/static/index.html" timestamp="1529655765002">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Git/AdReview/.idea/modules.xml" timestamp="1527582463200">
         <mark key="[" line="4" column="44" />
@@ -55,75 +33,26 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="39" column="59" />
       </file>
-      <file name="$USER_HOME$/Git/verdi/docker-compose.yml" timestamp="1527616738482">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/entities/endpoints/zemEntityConverter.service.js" timestamp="1527225426023">
         <mark key="[" line="37" column="86" />
         <mark key="]" line="37" column="85" />
         <mark key="." line="37" column="85" />
         <mark key="^" line="37" column="85" />
       </file>
-      <file name="$USER_HOME$/Git/verdi/server/server/urls.py" timestamp="1527658970412">
-        <mark key="'" line="16" column="26" />
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="30" />
-        <mark key="^" line="19" column="36" />
-        <mark key="." line="16" column="30" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/.idea/dictionaries/jure.xml" timestamp="1527061105147">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-review/zemCampaignLauncherReview.component.js" timestamp="1527490780681">
         <mark key="[" line="107" column="5" />
         <mark key="]" line="107" column="5" />
         <mark key="." line="107" column="5" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" timestamp="1527501137321">
-        <mark key="'" line="36" column="43" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="33" column="35" />
-      </file>
-      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/GreetingController.kt" timestamp="1530017801329">
-        <mark key="[" line="17" column="53" />
-        <mark key="]" line="17" column="51" />
-        <mark key="^" line="17" column="51" />
-        <mark key="." line="17" column="51" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/core/goals/service_test.py" timestamp="1527513582352">
         <mark key="[" line="28" column="66" />
         <mark key="]" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/Git/sspd/pom.xml" timestamp="1529657372340">
-        <mark key="[" line="36" column="21" />
-      </file>
-      <file name="$USER_HOME$/Git/verdi/client/tslint.json" timestamp="1527489266276">
-        <mark key="[" line="205" column="24" />
-        <mark key="]" line="205" column="22" />
-        <mark key="^" line="205" column="22" />
-        <mark key="." line="205" column="22" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" timestamp="1527489689911">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/scheduled_reports/views_test.py" timestamp="1527147310076">
         <mark key="[" line="81" column="17" />
         <mark key="]" line="81" column="47" />
         <mark key="." line="81" column="17" />
-      </file>
-      <file name="$USER_HOME$/Git/AdReview/.gitignore" timestamp="1527582572779">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="31" column="5" />
-        <mark key="." line="31" column="5" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/.idea/inspectionProfiles/Project_Default.xml" timestamp="1527066990264">
         <mark key="[" line="4" column="0" />
@@ -134,22 +63,6 @@
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="27" />
         <mark key="." line="17" column="27" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" timestamp="1527508390754">
-        <mark key="'" line="158" column="27" />
-        <mark key="[" line="262" column="24" />
-        <mark key="]" line="262" column="23" />
-        <mark key="." line="262" column="23" />
-        <mark key="^" line="262" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1530001248028">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/tslint.json" timestamp="1527488118572">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="7" column="22" />
-        <mark key="^" line="7" column="22" />
-        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/data-filter/zemDataFilter.service.js" timestamp="1527093154522">
         <mark key="[" line="54" column="0" />
@@ -167,23 +80,6 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/forms.py" timestamp="1527232476437">
-        <mark key="'" line="133" column="8" />
-        <mark key="[" line="133" column="34" />
-        <mark key="]" line="133" column="59" />
-        <mark key="." line="133" column="59" />
-        <mark key="^" line="133" column="59" />
-      </file>
-      <file name="$USER_HOME$/Git/verdi/server/server/settings.py" timestamp="1527617331454">
-        <mark key="'" line="87" column="14" />
-        <mark key="[" line="104" column="47" />
-        <mark key="]" line="104" column="53" />
-        <mark key="^" line="104" column="53" />
-        <mark key="." line="104" column="53" />
-      </file>
-      <file name="$USER_HOME$/Git/adnginob/internals/AdnginobUI/server/index.ts" timestamp="1568710550064">
-        <mark key="[" line="35" column="1" />
-      </file>
       <file name="$USER_HOME$/Git/verdi/server/viauth/urls.py" timestamp="1527658984405">
         <mark key="'" line="2" column="29" />
         <mark key="[" line="28" column="19" />
@@ -196,11 +92,11 @@
         <mark key="]" line="308" column="0" />
         <mark key="." line="301" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.html" timestamp="1527226978285">
-        <mark key="[" line="113" column="55" />
-        <mark key="]" line="113" column="76" />
-        <mark key="." line="113" column="76" />
-        <mark key="^" line="113" column="76" />
+      <file name="$USER_HOME$/Git/adnginob/internals/Limbo/src/main/java/com/outbrain/limbo/service/abTestPickerService/logic/abTestLib/stats/DynamicPropertiesLogs.java" timestamp="1569490781509">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="38" column="1" />
+        <mark key="." line="38" column="1" />
+        <mark key="^" line="38" column="1" />
       </file>
       <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/SspdApplication.kt" timestamp="1530086087045">
         <mark key="[" line="4" column="0" />
@@ -220,28 +116,152 @@
         <mark key="^" line="78" column="59" />
         <mark key="." line="78" column="59" />
       </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-review/zemCampaignLauncherReview.component.html" timestamp="1527227799490">
-        <mark key="[" line="34" column="95" />
-        <mark key="]" line="34" column="115" />
-        <mark key="^" line="25" column="115" />
-        <mark key="." line="34" column="95" />
-      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/views/campaign-launcher/zemCampaignLauncherView.controller.js" timestamp="1527322677535">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zem-campaign-launcher-goal/zemCampaignLauncherGoal.component.js" timestamp="1527227058171">
-        <mark key="[" line="8" column="62" />
-        <mark key="]" line="8" column="86" />
-        <mark key="." line="8" column="86" />
-        <mark key="^" line="8" column="86" />
       </file>
       <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/SspdApplicationConfig.kt" timestamp="1530086800829">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="15" column="2" />
         <mark key="." line="15" column="2" />
         <mark key="^" line="15" column="2" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/inventory-planning.component.ts" timestamp="1527488238555">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/AdReview/docker-compose.yml" timestamp="1527670277799">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
+      <file name="$USER_HOME$/Git/adnginob/internals/AdnginobApi/src/main/java/com/outbrain/adnginobApi/abtest/service/AbTestDaoReadService.java" timestamp="1569491217074">
+        <mark key="[" line="133" column="38" />
+        <mark key="]" line="133" column="45" />
+        <mark key="." line="133" column="45" />
+        <mark key="^" line="133" column="45" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/features/inventory-planning/components/inventory-planning-breakdown.component.html" timestamp="1527068329191">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/sspd/src/main/resources/static/index.html" timestamp="1529655765002">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/Git/adnginob/internals/AdnginobApi/src/main/java/com/outbrain/adnginobApi/abtest/AbTestController.java" timestamp="1569490849076" />
+      <file name="$USER_HOME$/Git/verdi/docker-compose.yml" timestamp="1527616738482">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/verdi/server/server/urls.py" timestamp="1527658970412">
+        <mark key="'" line="16" column="26" />
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/.idea/dictionaries/jure.xml" timestamp="1527061105147">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/views.py" timestamp="1527501137321">
+        <mark key="'" line="36" column="43" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="33" column="35" />
+      </file>
+      <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/controllers/GreetingController.kt" timestamp="1530017801329">
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="51" />
+        <mark key="^" line="17" column="51" />
+        <mark key="." line="17" column="51" />
+      </file>
+      <file name="$USER_HOME$/Git/sspd/pom.xml" timestamp="1529657372340">
+        <mark key="[" line="36" column="21" />
+      </file>
+      <file name="$USER_HOME$/Git/verdi/client/tslint.json" timestamp="1527489266276">
+        <mark key="[" line="205" column="24" />
+        <mark key="]" line="205" column="22" />
+        <mark key="^" line="205" column="22" />
+        <mark key="." line="205" column="22" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" timestamp="1527489689911">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/AdReview/.gitignore" timestamp="1527582572779">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="31" column="5" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/zemCampaignLauncher.state.js" timestamp="1527508390754">
+        <mark key="'" line="158" column="27" />
+        <mark key="[" line="262" column="24" />
+        <mark key="]" line="262" column="23" />
+        <mark key="." line="262" column="23" />
+        <mark key="^" line="262" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1530001248028">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/tslint.json" timestamp="1527488118572">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/server/dash/forms.py" timestamp="1527232476437">
+        <mark key="'" line="133" column="8" />
+        <mark key="[" line="133" column="34" />
+        <mark key="]" line="133" column="59" />
+        <mark key="." line="133" column="59" />
+        <mark key="^" line="133" column="59" />
+      </file>
+      <file name="$USER_HOME$/Git/verdi/server/server/settings.py" timestamp="1527617331454">
+        <mark key="'" line="87" column="14" />
+        <mark key="[" line="104" column="47" />
+        <mark key="]" line="104" column="53" />
+        <mark key="^" line="104" column="53" />
+        <mark key="." line="104" column="53" />
+      </file>
+      <file name="$USER_HOME$/Git/adnginob/internals/AdnginobUI/server/index.ts" timestamp="1568710550064">
+        <mark key="[" line="35" column="1" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zemCampaignLauncherGeneralSettings.component.html" timestamp="1527226978285">
+        <mark key="[" line="113" column="55" />
+        <mark key="]" line="113" column="76" />
+        <mark key="." line="113" column="76" />
+        <mark key="^" line="113" column="76" />
+      </file>
+      <file name="$USER_HOME$/Git/adnginob/internals/AbTestDao/src/main/java/com/outbrain/abtest/dao/impl/AbTestDaoImpl.java" timestamp="1569493353180">
+        <mark key="'" line="120" column="28" />
+        <mark key="[" line="145" column="11" />
+        <mark key="]" line="146" column="7" />
+        <mark key="." line="146" column="7" />
+        <mark key="^" line="146" column="7" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-review/zemCampaignLauncherReview.component.html" timestamp="1527227799490">
+        <mark key="[" line="34" column="95" />
+        <mark key="]" line="34" column="115" />
+        <mark key="^" line="25" column="115" />
+        <mark key="." line="34" column="95" />
+      </file>
+      <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-general-settings/zem-campaign-launcher-goal/zemCampaignLauncherGoal.component.js" timestamp="1527227058171">
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="86" />
+        <mark key="." line="8" column="86" />
+        <mark key="^" line="8" column="86" />
       </file>
       <file name="/fragment.java" timestamp="1565593679872">
         <mark key="[" line="0" column="0" />
@@ -253,8 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="17" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/campaignlauncher/service.py" />
-      <jump line="123" column="37" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/adgroup/ad_group/model.py" />
       <jump line="24" column="61" filename="$USER_HOME$/Git/zemanta-eins/server/core/goals/service.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/multicurrency_mixin.py" />
       <jump line="27" column="29" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/manager_test.py" />
@@ -353,46 +371,48 @@
       <jump line="16" column="26" filename="$USER_HOME$/Git/verdi/server/server/urls.py" />
       <jump line="2" column="29" filename="$USER_HOME$/Git/verdi/server/viauth/urls.py" />
       <jump line="3" column="44" filename="$USER_HOME$/Git/sspd/server/src/main/kotlin/com/outbrain/zemanta/sspd/models/AffectedBy.kt" />
+      <jump line="133" column="59" filename="$USER_HOME$/Git/adnginob/internals/AdnginobApi/src/main/java/com/outbrain/adnginobApi/abtest/service/AbTestDaoReadService.java" />
+      <jump line="120" column="28" filename="$USER_HOME$/Git/adnginob/internals/AbTestDao/src/main/java/com/outbrain/abtest/dao/impl/AbTestDaoImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
         <text>AdReview.iml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGgoCiAgICAgICAgJ3VzZXIvZW1haWwvJywKICAgICAgICBkam9zZXIudmlld3MuU2V0VXNlcm5hbWVWaWV3LmFzX3ZpZXcoKSwKICAgICAgICBuYW1lPSd1c2VyX2VtYWlsJwogICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvdW50LmdldCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbmZpZ3VyYXRpb24KaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uUmVzb3VyY2VIYW5kbGVyUmVnaXN0cnkKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uV2ViTXZjQ29uZmlndXJlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24KY2xhc3MgU3NwZEFwcGxpY2F0aW9uQ29uZmlnIDogV2ViTXZjQ29uZmlndXJlciB7CiAgICBvdmVycmlkZSBmdW4gYWRkUmVzb3VyY2VIYW5kbGVycyhyZWdpc3RyeTogUmVzb3VyY2VIYW5kbGVyUmVnaXN0cnkpIHsKICAgICAgICByZWdpc3RyeS5hZGRSZXNvdXJjZUhhbmRsZXIoImZhdmljb24uaWNvIikKICAgICAgICAgICAgICAgIC5hZGRSZXNvdXJjZUxvY2F0aW9ucygiZmlsZTovYXBwL3N0YXRpYy8iKTsKICAgIH0KfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlQ291bnQuZm9yRWFjaChjb3VudGVyIC0+IHsKICAgICAgICAgICAgICAgIGNvdW50LnVwZGF0ZUFuZEdldCh2IC0+IHYgKyAoTG9uZykgY291bnRlclsxXSk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICByZXR1cm4gY291bnQuZ2V0KCk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5ydW5BcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE9iamVjdFtdPiBmaWx0ZXJlZEl0ZW1zID0gZ2V0QWxsQWJUZXN0c0NvdW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgcGF1c2VkQ291bnQuZm9yRWFjaChjb3VudGVyIC0+IHsKICAgICAgICAgICAgICAgIGNvdW50LnVwZGF0ZUFuZEdldCh2IC0+IHYgKyAoTG9uZykgY291bnRlclsxXSk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICByZXR1cm4gY291bnQuZ2V0KCk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgpjbGFzcyBTc3BkQXBwbGljYXRpb24KCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgIHJ1bkFwcGxpY2F0aW9uPFNzcGRBcHBsaWNhdGlvbj4oKmFyZ3MpCn0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZmlsdGVyLmNvbnRhaW5zKCJBbGwiKSkgewo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgogICAgICAgIGlmIChmaWx0ZXIuY29udGFpbnMoIkFjdGl2YXRlZCIpKSB7CiAgICAgICAgICAgIGZpbmFsIExpc3Q8T2JqZWN0W10+IGFjdGl2ZUNvdW50ID0gZ2V0QWxsQWJUZXN0c0NvdW50LnN0cmVhbSgpLmZpbHRlcihjb3VudGVyIC0+IChJbnRlZ2VyKSBjb3VudGVyWzBdID09IDEpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgICAgICAgIGFjdGl2ZUNvdW50LmZvckVhY2goY291bnRlciAtPiB7CiAgICAgICAgICAgICAgICBjb3VudC51cGRhdGVBbmRHZXQodiAtPiB2ICsgKExvbmcpIGNvdW50ZXJbMV0pOwogICAgICAgICAgICB9KTsKLy8gICAgICAgICAgICByZXR1cm4gKExvbmcpIGFjdGl2ZUNvdW50LmdldCgwKVsxXTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBmaW5hbCBMaXN0PE9iamVjdFtdPiBwYXVzZWRDb3VudCA9IGdldEFsbEFiVGVzdHNDb3VudC5zdHJlYW0oKS5maWx0ZXIoY291bnRlciAtPiAoSW50ZWdlcikgY291bnRlclswXSAhPSAxKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgICAgICBwYXVzZWRDb3VudC5mb3JFYWNoKGNvdW50ZXIgLT4gewogICAgICAgICAgICAgICAgY291bnQudXBkYXRlQW5kR2V0KHYgLT4gdiArIChMb25nKSBjb3VudGVyWzFdKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb3VudC5nZXQoKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5NZWRpYVR5cGUK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gKExvbmcpIGFjdGl2ZUNvdW50LmdldCgwKVsxXTsK</text>
       </register>
     </registers>
     <search>
