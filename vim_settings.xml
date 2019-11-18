@@ -93,10 +93,10 @@
         <mark key="." line="301" column="0" />
       </file>
       <file name="$USER_HOME$/Git/adnginob/internals/Limbo/src/main/java/com/outbrain/limbo/service/abTestPickerService/logic/abTestLib/stats/DynamicPropertiesLogs.java" timestamp="1569490781509">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="38" column="1" />
-        <mark key="." line="38" column="1" />
-        <mark key="^" line="38" column="1" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="53" column="1" />
+        <mark key="." line="53" column="1" />
+        <mark key="^" line="53" column="1" />
       </file>
       <file name="$USER_HOME$/Git/sspd/src/main/kotlin/com/outbrain/zemanta/sspd/SspdApplication.kt" timestamp="1530086087045">
         <mark key="[" line="4" column="0" />
@@ -236,13 +236,6 @@
         <mark key="]" line="113" column="76" />
         <mark key="." line="113" column="76" />
         <mark key="^" line="113" column="76" />
-      </file>
-      <file name="$USER_HOME$/Git/adnginob/internals/AbTestDao/src/main/java/com/outbrain/abtest/dao/impl/AbTestDaoImpl.java" timestamp="1569493353180">
-        <mark key="'" line="120" column="28" />
-        <mark key="[" line="145" column="11" />
-        <mark key="]" line="146" column="7" />
-        <mark key="." line="146" column="7" />
-        <mark key="^" line="146" column="7" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/widgets/zem-campaign-launcher/components/zem-campaign-launcher-review/zemCampaignLauncherReview.component.html" timestamp="1527227799490">
         <mark key="[" line="34" column="95" />
