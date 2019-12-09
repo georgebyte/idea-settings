@@ -15,6 +15,13 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/Git/adnginob/internals/AbTestApi/src/main/java/com/outbrain/AbTestApi/abtest/service/AbTestDaoWriteService.java" timestamp="1575884844693">
+        <mark key="'" line="86" column="74" />
+        <mark key="[" line="86" column="145" />
+        <mark key="]" line="87" column="104" />
+        <mark key="^" line="87" column="104" />
+        <mark key="." line="87" column="104" />
+      </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/views/campaign-launcher/zemCampaignLauncherView.partial.html" timestamp="1527322580417">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -69,7 +76,6 @@
         <mark key="]" line="17" column="27" />
         <mark key="." line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/Git/adnginob/internals/AbTestApi/src/main/java/com/outbrain/AbTestApi/variant/VariantApiService.java" timestamp="1575367513948" />
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/services/data-filter/zemDataFilter.service.js" timestamp="1527093154522">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -199,7 +205,9 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/adnginob/internals/AbTestApi/src/main/java/com/outbrain/AbTestApi/abtest/AbTestApiService.java" timestamp="1575367933640" />
+      <file name="$USER_HOME$/Git/adnginob/internals/AbTestApi/src/main/java/com/outbrain/AbTestApi/abtest/AbTestApiService.java" timestamp="1575884732958">
+        <mark key="'" line="150" column="74" />
+      </file>
       <file name="$USER_HOME$/Git/AdReview/.gitignore" timestamp="1527582572779">
         <mark key="[" line="31" column="5" />
         <mark key="]" line="31" column="5" />
@@ -266,11 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="61" filename="$USER_HOME$/Git/zemanta-eins/server/core/goals/service.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/multicurrency_mixin.py" />
-      <jump line="27" column="29" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/manager_test.py" />
-      <jump line="46" column="45" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/adgroupsource/views.py" />
-      <jump line="28" column="37" filename="$USER_HOME$/Git/zemanta-eins/server/core/entity/settings/ad_group_settings/instance.py" />
       <jump line="24" column="36" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/report/views.py" />
       <jump line="54" column="6" filename="$USER_HOME$/Git/zemanta-eins/server/dash/features/reports/serializers.py" />
       <jump line="64" column="23" filename="$USER_HOME$/Git/zemanta-eins/server/restapi/campaignlauncher/serializers.py" />
@@ -366,6 +369,11 @@
       <jump line="3" column="44" filename="$USER_HOME$/Git/sspd/server/src/main/kotlin/com/outbrain/zemanta/sspd/models/AffectedBy.kt" />
       <jump line="133" column="59" filename="$USER_HOME$/Git/adnginob/internals/AdnginobApi/src/main/java/com/outbrain/adnginobApi/abtest/service/AbTestDaoReadService.java" />
       <jump line="120" column="28" filename="$USER_HOME$/Git/adnginob/internals/AbTestDao/src/main/java/com/outbrain/abtest/dao/impl/AbTestDaoImpl.java" />
+      <jump line="150" column="74" filename="$USER_HOME$/Git/adnginob/internals/AbTestApi/src/main/java/com/outbrain/AbTestApi/abtest/AbTestApiService.java" />
+      <jump line="89" column="29" filename="$USER_HOME$/Git/adnginob/internals/AbTestApi/src/main/java/com/outbrain/AbTestApi/abtest/service/AbTestDaoWriteService.java" />
+      <jump line="88" column="60" filename="$USER_HOME$/Git/adnginob/internals/AbTestApi/src/main/java/com/outbrain/AbTestApi/abtest/service/AbTestDaoWriteService.java" />
+      <jump line="86" column="74" filename="$USER_HOME$/Git/adnginob/internals/AbTestApi/src/main/java/com/outbrain/AbTestApi/abtest/service/AbTestDaoWriteService.java" />
+      <jump line="32" column="28" filename="$USER_HOME$/Git/adnginob/externals/AbTestDto/src/main/java/com/outbrain/abtest/dto/AbTestDTO.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
