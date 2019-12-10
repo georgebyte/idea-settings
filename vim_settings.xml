@@ -15,11 +15,12 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Git/adnginob/internals/AbTestApi/src/main/java/com/outbrain/AbTestApi/abtest/service/AbTestDaoWriteService.java" timestamp="1575976723016">
+      <file name="$USER_HOME$/Git/adnginob/internals/AbTestApi/src/main/java/com/outbrain/AbTestApi/abtest/service/AbTestDaoWriteService.java" timestamp="1575977783977">
         <mark key="'" line="86" column="74" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="52" />
-        <mark key="." line="114" column="0" />
+        <mark key="[" line="87" column="106" />
+        <mark key="]" line="88" column="35" />
+        <mark key="." line="88" column="35" />
+        <mark key="^" line="88" column="35" />
       </file>
       <file name="$USER_HOME$/Git/zemanta-eins/client/one/app/ajs-app/views/campaign-launcher/zemCampaignLauncherView.partial.html" timestamp="1527322580417">
         <mark key="[" line="1" column="0" />
@@ -263,7 +264,7 @@
         <mark key="." line="8" column="86" />
         <mark key="^" line="8" column="86" />
       </file>
-      <file name="/fragment.java" timestamp="1565593679872">
+      <file name="/fragment.java" timestamp="1575977661695">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Git/verdi/server/requirements.txt" timestamp="1527616099573">
